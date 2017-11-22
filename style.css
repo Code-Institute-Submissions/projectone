@@ -1,0 +1,82 @@
+bootstrap.min.css
+.container{
+  border: none;
+}
+
+@font-face {
+  font-family: 'anders';
+  src: url('anders.ttf') format('ttf'),
+  url('anders.ttf') format('ttf'),
+  url('anders.tff') format('truetype');
+}
+
+.container{
+  border: none;
+}
+.div{
+  border: none;
+}
+ul{
+  border: none;
+}
+
+.navbar{
+  background-color: white;
+}
+.navbar-default{
+  background-color: white;
+}
+.navbar-header{
+  border: none;
+}
+.navbar-brand {
+  font-family: 'anders';
+  background-color: white;
+  color: black;
+  font-size: 30px;
+  text-align: left;
+  font-weight: bold;
+}
+.nav{
+  display: block;
+  text-decoration: none;
+  font-family: 'anders', Fallback, sans-serif;
+  font-size: 30px;
+  background-color: white;
+  color: black;
+  font-weight: bold;
+
+
+}
+.navbar-right{
+  border:none;
+
+}
+.navbar-nav{
+  border: none;
+}
+
+body{
+  background-color: white;
+  color: black;
+}
+
+footer{
+  text-align: center;
+  font-family: 'anders';
+  font-size: 10px;
+}
+
+
+/*@media screen and (min-width: 665px){
+
+  .nav {
+    font-size: 0;
+  }
+  .nav {
+    display: inline-block;
+    width: 120px;
+    font-size: 20px;
+    border-bottom: none;
+  }
+  
