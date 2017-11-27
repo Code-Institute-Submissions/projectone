@@ -3,168 +3,95 @@
 <head>
 <meta charset="UTF-8">
 <title>Push The Sky Away</title>
-<link href='http://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'/>
+<link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
 <link rel='stylesheet' type='text/css' href="bootstrap/css/bootstrap.min.css"/>
 <link rel="stylesheet" type="text/css" href="style.css">
-<style type="text/css">
-
-  <style>
-
-
-@font-face {
-  font-family: 'anders';
-  src: url('anders.ttf') format('ttf'),
-  url('anders.ttf') format('ttf'),
-  url('anders.tff') format('truetype');
-}
-@font-face {
-  font-family: 'codebold';
-  src: url('codebold.otf') format('otf'),
-  url('codebold.otf') format('otf'),
-  url('codebold.otf') format('truetype');
-}
-
-p{
-	font-family: 'codebold';
-	font-size: 20px;
-}
-
-.container{
-	
-
-}
-.div{
-	
-
-}
-nav ul li{
-	font-family: 'anders';
-	font-size: 20px;
-
-}
-nav ul li:hover {
-	font-family: 'anders';
-	font-size: 20px;
-	background-color: #e6e6e6;
-
-}
-
-.navbar-default{
-	background-color: white;
-	 border: 0;
-    -webkit-box-shadow: none;
-    box-shadow: none;
-    text-align: center;
-   
-}
-
-
-
-.navbar-nav{
-
-	
-  text-decoration: none;
-  font-family: 'anders', Fallback, sans-serif;
-  font-size: 20px;
-  background-color: white;
-  color: black;
-  font-weight: bold;
-
- 
-  
-
-}
-
-
-.navbar .navbar-nav{
-	 display: inline-block;
-	 float: none;
-}
-.navbar .navbar-collapse{
-
-	text-align: center;
-}
-#banner{
-	vertical-align: middle;
-	font-family: 'anders';
-	font-size: 35px;
-	text-align: center;
-
-
-}
-body{
-  background-color: white;
-  color: black;
-}
-
-footer{
-	text-align: center;
-	font-family: 'anders';
-	font-size: 10px;
-}
-
-
-/*@media screen and (min-width: 665px){
-
-  .nav {
-    font-size: 0;
-  }
-  .nav {
-    display: inline-block;
-    width: 120px;
-    font-size: 20px;
-    border-bottom: none;
-  }
-  
-}
-
-</style>
 </head>
 
 <body> 
-<div id ="banner">
-	<span class="logo">
-		<h2>Push The Sky Away</h2></span></div>
-<nav class="navbar navbar-default">
-	
-	
+	<nav class="navbar navbar-default">
+	<div class="container">
+<div class="navbar-header">
+		<a class="navbar-brand" href="#">PUSH THE SKY AWAY</a></div>
+
 		
 		<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myCollapseList">
 			<span class="icon-bar"></span>
 			<span class="icon-bar"></span>
 			<span class="icon-bar"></span>
 		</button>
-
+	
 
 <div class="collapse navbar-collapse" id="myCollapseList">
-		<ul class="nav navbar-nav">
+		<ul class="nav navbar-nav navbar-right">
 			
-<li><a href="home.html">Home</a></li>
-<li><a href="about.html">About</a></li>
-<li><a href="menus.html">Menus</a></li>
-<li><a href="location.html">Location</a></li>
-<li><a href="contact.html">Contact Us</a></li>
+<li><a href="home.html">HOME</a></li>
+<li><a href="about.html">ABOUT</a></li>
+<li><a href="menus.html">MENUS</a></li>
+<li><a href="location.html">LOCATION</a></li>
+<li><a href="contact.html">CONTACT US</a></li>
 </ul>
 </div>
-
+</div>
 </nav>
-  
+
+
+<div class="form">
+
+<p>IF YOU WANT TO GET IN TOUCH, PLEASE FILL IN THE FORM BELOW</p></div>
+
+<div id="formcontainer">
+<form id="contactForm" action="server.php" method="post">
+	<fieldset>
+		<legend>CONTACT US</legend> 
+
+<label for="fname" class="field" required>FIRST NAME*</label>
+<input type="text" placeholder="First Name" id="fname" name="fname"/><br><br>
+
+
+<label for="surname" class="field" required>SURNAME*</label>
+<input type="text" placeholder="Surname" id="surname" name="surname"/><br><br>
+
+<label for="email" class="field" required>EMAIL ADDRESS*</label>
+<input type="email" placeholder="Email address" id="email" name="email"/><br><br>
+
+<label for="phone" class="field" required>PHONE NUMBER*</label>
+<input type="number" placeholder="Phone number" id="phone" name="phone"/><br><br>
+
+<label for="comments" class="field" requred>YOUR COMMENTS*</label>
+<textarea placeholder="Your comments" id="comments" name="comments" maxlength="300"></textarea>
+</fieldset>
+<input type="submit" value="Submit"/>
+</form>
+*REQUIRED FIELD
+
+<form id="eventForm" action="server.php" method="post">
+
+<fieldset>
+	<legend>EVENT BOOKING</legend>
+	<p>IF YOU WISH TO BOOK AN EVENT, PLEASE FILL IN THE FOLLOWING:</p>
+
+<label for="event" class="field" required>EVENT SUMMARY, E.G. BIRTHDAY, WEDDING ETC.*</label>
+<textarea placeholder="Event Summary" id="event" name="event"></textarea><br><br>
+
+<label for="guests" class="field" required>NUMBER OF GUESTS</label>
+<select name="howmany">
+	<option value="1-10" selected>1-10</option>
+		<option value="11-20">11-20</option>
+				<option value="21-30">21-30</option>*
+						<option value="31-40">31-40</option>
+								<option value="41-50">41-50</option>
+							</select>
+										
 
 
 
-<div class="container">
-	<div class="row">
-		<div class="col-lg-6">
-			<img class="img-responsive" src="door.jpeg">
-		</div>
-		<div class="col-lg-6">	
-		<p>We are situated right in the heart of Stoneybatter. Our ethos is focused on fresh, local ingredients with minimal food miles.</p>
-		<p>We are open daily at 7am for breakfast with lunch starting from 12 to 3. Dinner starts at 5pm and our last seating is 9pm. Cakes and coffee are served throughout the day as well as light bites. Brunch is served Saturday and Sunday all day. </p>	
-		<p>Opening Hours:<br> Monday-Friday 7am-10.30pm <br>Saturday and Sunday 9am-4pm<br>Bank Holiday hours 10am-3pm</p>
+</fieldset>
+<input type="submit" value="Submit"/>
+</form>
+</div>
 
-		</div>
-		
-	</div>
+*REQUIRED FIELD
 
 
 
