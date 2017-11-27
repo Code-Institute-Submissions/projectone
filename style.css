@@ -85,9 +85,15 @@ footer{
   color: black;
   background-image: none !important;
 }
-.carousel-control.active{
-  color: #a9a9a9;
 }
+a.right.carousel-control{
+  color: black;
+}
+a.left.carousel-control{
+  color: black;
+
+}
+
 ol.carousel-indicators li{
   color: white;
   background: #a9a9a9;
@@ -95,6 +101,9 @@ ol.carousel-indicators li{
 ol.carousel-indicators li.active{
   color: white;
   background: black;
+}
+.carousel-indicators{
+  bottom: -20px;
 }
 
 /*form styling*/
@@ -110,10 +119,16 @@ input{
 }
 fieldset{
   font-family: 'Raleway', sans-serif;
+  padding: 5px;
 }
 
-/*@media screen and (min-width: 665px){
+@media screen and (max-width: 665px){
 
+.img-responsive .center-block{
+  width:100%;
+}
+
+/*
   .nav {
     font-size: 0;
   }
@@ -123,5 +138,5 @@ fieldset{
     font-size: 20px;
     border-bottom: none;
   }
-  
+  */
 
