@@ -10,7 +10,7 @@
 
 <body> 
 	<nav class="navbar navbar-default">
-	<div class="container">
+	
 <div class="navbar-header">
 		<a class="navbar-brand" href="#">PUSH THE SKY AWAY</a></div>
 
@@ -36,44 +36,81 @@
 </nav>
 
 
-<div class="form">
-	<hr>
+<!--<p>IF YOU WANT TO GET IN TOUCH, PLEASE FILL IN THE FORM BELOW</p>-->
 
-<p>IF YOU WANT TO GET IN TOUCH, PLEASE FILL IN THE FORM BELOW</p></div>
+<div class="container">
+<div class="row">
+			<div class="col-md-6">
 
-<div id="formcontainer">
-<form id="contactForm" action="server.php" method="post">
+		<form id="contactForm" action="server.php" method="post" class="form-inline">
+			<div class="form-group">
 	<fieldset>
-		<legend>CONTACT US</legend> 
+		<legend class="ledge">CONTACT US (*REQUIRED FIELD)</legend> 
+
+
+
 
 <label for="fname" class="field" required>FIRST NAME*</label>
-<input type="text" placeholder="First Name" id="fname" name="fname"/><br><br>
+<input type="text" placeholder="First Name" id="fname" name="fname"/>
 
 
 <label for="surname" class="field" required>SURNAME*</label>
-<input type="text" placeholder="Surname" id="surname" name="surname"/><br><br>
+<input type="text" placeholder="Surname" id="surname" name="surname"/>
 
 <label for="email" class="field" required>EMAIL ADDRESS*</label>
-<input type="email" placeholder="Email address" id="email" name="email"/><br><br>
+<input type="email" placeholder="name@domain.com" id="email" name="email"/>
 
 <label for="phone" class="field" required>PHONE NUMBER*</label>
-<input type="number" placeholder="Phone number" id="phone" name="phone"/><br><br>
+<input type="text" placeholder="Phone number" id="phone" name="phone"/>
 
-<label for="comments" class="field" requred>YOUR COMMENTS*</label>
-<textarea placeholder="Your comments" id="comments" name="comments" maxlength="300"></textarea>
+<label for="comment" class="field" required>YOUR COMMENTS*</label>
+<textarea type="text" placeholder="Your comments" id="comms" name="comments" maxlength="300"></textarea>
+
+<label for="event" class="field" required>EVENT TYPE*</label>
+<textarea type="text" placeholder="Event Summary e.g. Birthday" id="event" name="event" maxlength="300"></textarea>
+
+<label for="guests" class="field" required>NUMBER OF GUESTS</label>
+<select name="howmany">
+	<option value="1-10" selected>1-10</option>
+		<option value="11-20">11-20</option>
+				<option value="21-30">21-30</option>*
+						<option value="31-40">31-40</option>
+								<option value="41-50">41-50</option>
+							</select>
+										
+
+
 </fieldset>
+<br>
 <input type="submit" value="Submit"/>
-</form><br>
-*REQUIRED FIELD<hr>
 
-<form id="eventForm" action="server.php" method="post">
+</div>
+<br><br>
+</form>
+		
+	
+	</div>
+
+
+
+			<div class="col-md-6">
+
+		<p>To contact us, blah blah Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+		tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+		quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+		consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+		cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+		proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+<!--<form id="eventForm" action="server.php" method="post">
+	<div class="form-group">
 
 <fieldset>
 	<legend>EVENT BOOKING</legend>
-	<p>IF YOU WISH TO BOOK AN EVENT, PLEASE FILL IN THE FOLLOWING:</p>
+		<p>IF YOU ALSO WISH TO BOOK AN EVENT, PLEASE FILL IN THE FOLLOWING:</p>
 
-<label for="event" class="field" required>EVENT SUMMARY, E.G. BIRTHDAY, WEDDING ETC.*</label>
-<textarea placeholder="Event Summary" id="event" name="event"></textarea><br><br>
+<label for="event" class="field" required>EVENT TYPE*</label>
+<input type="text" placeholder="Event Summary e.g. Birthday" id="event" name="event"><br><br>
 
 <label for="guests" class="field" required>NUMBER OF GUESTS</label>
 <select name="howmany">
@@ -88,13 +125,19 @@
 
 
 </fieldset>
-<input type="submit" value="Submit"/>
-</form>
+
+
+
+
+		</div>
+		</form>-->
+
+
+	</div>
+
 </div>
-
-*REQUIRED FIELD
-
-
+</div>
+	
 
 
 
@@ -109,14 +152,18 @@
 
 
 
+
+
+
+
+
+
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script type="text/javascript" src="js/script.js"></script>
+</body>
 <footer>
 	<h2>Copyright G</h2>
 </footer>
-
-<script src="http://code.jquery.com/jquery.min.js"></script>
-<script src="bootstrap/js/bootstrap.min.js"></script>
-</body>
-
 
 
 

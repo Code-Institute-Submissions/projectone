@@ -41,7 +41,10 @@ nav ul li:hover {
 .navbar .navbar-collapse{
 text-align: center;
 }
-
+.img-responsive{
+  width:250px;
+  height:250px;
+}
 
 body{
   background-color: white;
@@ -108,19 +111,96 @@ ol.carousel-indicators li.active{
 
 /*form styling*/
 
-#formcontainer{
-  width:550px;
-  margin: left;
+
+label{
+  width: 150px;
+  height: 20px;
 }
 input{
-  width:200px;
   border-radius: 4px;
-  padding: 6px 8px;
+  padding: 6px 4px;
+   width: 140px;
+   margin-bottom: 5px
+}
+#comms{
+  padding-bottom: : 80px;
+
+}
+.field{
+  padding: 6px 2px 6px 2px;
+}
+label, input{
+  display: block;
 }
 fieldset{
+  display: block;
   font-family: 'Raleway', sans-serif;
-  padding: 5px;
+  padding: 10px;
+  border-style: solid;
+  border-color: gray;
+  border-width: 3px;
+  background-color: #f5f5f5;
+  min-width: -webkit-min-content;
+
 }
+.ledge{
+padding:5px;
+  background-color: #f5f5f5;
+  border-style:solid;
+  border-color: gray;
+border-width: 2px;
+}
+#event{
+  width: 210px;
+  height:70px;
+  padding-bottom: 50px;
+}
+#comms{
+  height:70px;
+  width:210px;
+  padding-bottom: 50px;
+}
+
+textarea{
+  width: 300px;
+}
+
+.damn{
+  background-color: blue;
+}
+/*.closeUp{
+width: 300px;
+height: 300px;
+}
+.smaller{
+  width: 220px;
+  height: 220px;
+}*/
+
+.text{
+  display: none;
+  position: absolute;
+  bottom:0;
+  width: 250px;
+  height: 250px;
+  background: rgba(124,124,123,0.5);
+  padding: 80px 80px;
+  text-align: center;
+  color: white;
+  font-family: 'Raleway', sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+
+ text-shadow: 2px 2px 8px #000;
+
+}
+.thumb:hover .text{
+  display: block;
+  opacity: 50%;
+}
+
+
+
 
 @media screen and (max-width: 665px){
 
