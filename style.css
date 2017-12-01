@@ -45,6 +45,10 @@ text-align: center;
   width:250px;
   height:250px;
 }
+.door{
+  width:600px;
+  height: 400px;
+}
 
 body{
   background-color: white;
@@ -135,7 +139,7 @@ label, input{
 fieldset{
   display: block;
   font-family: 'Raleway', sans-serif;
-  padding: 10px;
+  padding:50px;
   border-style: solid;
   border-color: gray;
   border-width: 3px;
@@ -197,6 +201,18 @@ height: 300px;
 .thumb:hover .text{
   display: block;
   opacity: 50%;
+}
+.contact{
+  padding-top: 30px;
+  padding-left: 50px;
+  padding-right: 30px;
+}
+.about{
+  padding-top: 30px;
+  padding-left: 50px
+}
+.locate{
+  text-align: left;
 }
 
 
