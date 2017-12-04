@@ -122,7 +122,7 @@ ol.carousel-indicators li.active{
 
 
 label{
-  width: 150px;
+  width: 140px;
   height: 20px;
 }
 input{
@@ -139,16 +139,15 @@ input{
   padding: 6px 2px 6px 2px;
 }
 label, input{
-  display: inline-block;
+  display: block;
 }
 fieldset{
-  display: inline-block;
+  display: block;
   font-family: 'Raleway', sans-serif;
   padding:20px 30px;
-  border-style: solid;
-  border-color: gray;
-  border-width: 3px;
-  background-color: #f5f5f5;
+  border-none;
+  
+  background-color: white;
   min-width: -webkit-min-content;
   float: none;
   margin: 0 auto;
@@ -156,10 +155,8 @@ fieldset{
 }
 .ledge{
 padding:5px;
-  background-color: #f5f5f5;
-  border-style:solid;
-  border-color: gray;
-border-width: 2px;
+  background-color: white;
+
 }
 #event{
   width: 210px;
