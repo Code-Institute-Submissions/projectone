@@ -139,10 +139,10 @@ input{
   padding: 6px 2px 6px 2px;
 }
 label, input{
-  display: block;
+  display: inline-block;
 }
 fieldset{
-  display: block;
+  display: inline-block;
   font-family: 'Raleway', sans-serif;
   padding:20px 30px;
   border-style: solid;

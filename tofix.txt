@@ -1,0 +1,5 @@
+1. media query settings
+2. remove scroll down to see some of our dishes
+3. resize hover box for food images
+4. set size for food images on mobile
+5. resize menu items for mobile
