@@ -145,10 +145,10 @@ fieldset{
   display: block;
   font-family: 'Raleway', sans-serif;
   padding:20px 30px;
-  border-style: solid;
+  /*border-style: solid;
   border-color: gray;
-  border-width: 3px;
-  background-color: #f5f5f5;
+  border-width: 3px;*/
+  background-color: white;
   min-width: -webkit-min-content;
   float: none;
   margin: 0 auto;
@@ -156,10 +156,10 @@ fieldset{
 }
 .ledge{
 padding:5px;
-  background-color: #f5f5f5;
-  border-style:solid;
+  background-color: white;
+  /*border-style:solid;
   border-color: gray;
-border-width: 2px;
+border-width: 2px;*/
 }
 #event{
   width: 210px;

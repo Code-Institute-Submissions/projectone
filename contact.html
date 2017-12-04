@@ -45,9 +45,87 @@
 	</div>
 </div>
 
-<!--<p>IF YOU WANT TO GET IN TOUCH, PLEASE FILL IN THE FORM BELOW</p>-->
+
+
 
 <div class="container">
+<div class="row contact">
+
+
+
+
+				<div class="col-lg-12">
+				<fieldset>
+					<legend class="ledge">CONTACT DETAILS</legend>
+<p>CALL US: 01-7001234 or 087-1234567</p>
+<p>EMAIL US: pushtheskyaway@domain.com</p>
+<a href="http://www.facebook.com" class="fa fa-facebook"></a> <a href="http://www.instagram.com" class="fa fa-instagram"></a>  <a href="http://www.twitter.com" class="fa fa-twitter"></a><hr>
+
+
+		<form name ="myForm" id="contactForm" action="server_side_script.php" method="post" class="form-inline" onsubmit="return validateForm()">
+			<div class="form-group">
+	
+		<p>TO BOOK AN EVENT, FILL IN THE FORM BELOW (*REQUIRED FIELD)</p>
+<br>
+
+
+
+<label for="name" class="field" required>NAME*</label>
+<input type="text" placeholder="Name" id="name" name="name"/>
+
+
+
+<label for="email" class="field" required>EMAIL ADDRESS*</label>
+<input type="email" placeholder="name@domain.com" id="email" name="email"/>
+
+
+
+<label for="phone" class="field" required>PHONE NUMBER*</label>
+<input type="text" placeholder="Phone number" pattern="[0-9]{10}" title="10 digit number" id="phone" name="phone"/>
+
+<label for="comment" class="field" required>YOUR COMMENTS*</label>
+<textarea type="text" placeholder="Your comments" id="comms" name="comments" maxlength="300"></textarea>
+
+<label for="event" class="field" required>EVENT TYPE*</label>
+<textarea type="text" placeholder="Event Summary e.g. Birthday" id="event" name="event" maxlength="300"></textarea>
+
+<label for="guests" class="field" required>NUMBER OF GUESTS*</label>
+<select name="howmany">
+	<option value="1-10" selected>1-10</option>
+		<option value="11-20">11-20</option>
+				<option value="21-30">21-30</option>*
+						<option value="31-40">31-40</option>
+								<option value="41-50">41-50</option>
+							</select>
+										
+
+
+
+<br>
+<input type="submit" value="Submit"/>
+
+</div>
+<br><br>
+</form>
+
+</fieldset>
+
+</div>
+		
+	</div>
+	
+
+
+
+</div>
+
+
+
+
+
+<!--<p>IF YOU WANT TO GET IN TOUCH, PLEASE FILL IN THE FORM BELOW</p>-->
+
+<!--<div class="container">
 <div class="row contact">
 
 
@@ -124,7 +202,7 @@
 
 
 </div>
-
+-->
 
 <!--<form id="eventForm" action="server.php" method="post">
 	<div class="form-group">
