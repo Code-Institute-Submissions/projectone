@@ -257,6 +257,20 @@ height: 300px;
   width:100%;
 }
 
+@media screen and (max-width: 480px) {
+
+  img {width:50%
+    height: 50%;
+
+  }
+.text .thumb {
+  width: 50%;
+  height: 50%;
+}
+
+}
+
+
 /*
   .nav {
     font-size: 0;
