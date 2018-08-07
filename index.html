@@ -5,15 +5,37 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Push The Sky Away</title>
 <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <link rel='stylesheet' type='text/css' href="bootstrap/css/bootstrap.min.css"/>
-<link rel="stylesheet" type="text/css" href="style.css">
+
+<link rel="stylesheet" type="text/css" href="css/style.css">
+<!-- <script type="text/javascript" src="js/script.js"></script> -->
+<!-- <style>
+.myPics {display:none;}
+</style> -->
+
 </head>
 
+
 <body> 
+	<div id="header">
+		<div class="container">
+			<div class="row align-items-center">
+				<div class="col-md-3 col-md-offset-2">
+		<a href="index.html" title="Home"><img src="push.jpg"></a>
+	</div>
+</div>
+
+	</div>
+</div>
+
+
+
+	<div>
 		<nav class="navbar navbar-default">
 	
-<div class="navbar-header">
-		<a class="navbar-brand">PUSH THE SKY AWAY</a></div>
+<!-- <div class="navbar-header">
+		<a class="navbar-brand">PUSH THE SKY AWAY</a></div> -->
 
 		
 		<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myCollapseList">
@@ -24,7 +46,10 @@
 	
 
 <div class="collapse navbar-collapse" id="myCollapseList">
-		<ul class="nav navbar-nav navbar-right">
+		<ul class="nav navbar-nav navbar-center">
+
+
+
 			
 <li class="currentpage"><a href="index.html">HOME</a></li>
 <li><a href="about.html">ABOUT</a></li>
@@ -33,21 +58,48 @@
 <li><a href="contact.html">CONTACT US</a></li>
 </ul>
 </div>
-</div>
+
 </nav>
+</div>
 
 <div class="jumbotron">
 	<div class="jumbocontainer">
-		<h1>PUSH THE SKY AWAY</h1><br>
-		<p>~-~-~-~-~-~-~-~-~</p>
+	<!-- 	<h1>PUSH THE SKY AWAY</h1><br> -->
+	<br>
+	<!-- 	<p>~-~-~-~-~-~-~-~-~</p> -->
 		<p>FRESH FOOD ~ GOOD COFFEE ~ FREE WIFI</p>
 
 	</div>
 </div>
 
+
+<div class="w3-content w3-section" style="max-width:500px">
+	<img class="myPics" src="avo.jpg" style="width:100%">
+	<img class="myPics" src="bowl.jpg" style="width:100%">
+	<img class="myPics" src="ny.jpg" style="width:100%">
+	</div>
+
+<script>
+
+var slideIndex = 0;
+carousel();
+
+function carousel() {
+	var i;
+	var x = document.getElementsByClassName("myPics");
+	for (i = 0; i < x.length; i++) {
+		x[i].style.display = "none";
+	}
+	slideIndex++;
+	if (slideIndex > x.length) {slideIndex = 1}
+	x[slideIndex-1].style.display = "block";
+	setTimeout(carousel, 3000);
+}
+</script>
+
   
 
-<div class="container">
+<!-- <div class="container">
 	<div class="row">
 		<div class="col-sm-3 thumb">
 			<img class="img-responsive" id="one" src="food/fruit.jpg">
@@ -88,7 +140,7 @@
 </div>
 
 
-
+ -->
 
 
 
@@ -99,10 +151,10 @@
 
 
 
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<!-- <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 <script type="text/jquery" src="jquery/queryscript.js"></script>
-<script type="text/javascript" src="js/script.js"></script>
-<script src="bootstrap/js/bootstrap.min.js"></script>
+
+<script src="bootstrap/js/bootstrap.min.js"></script> -->
 
 </body>
 
