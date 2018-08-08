@@ -3,24 +3,39 @@
 p{
   font-family: 'Roboto', sans-serif;
   font-size: 20px;
+  color: black;
+}
+a{
+  color: black;
+}
+
+img {
+  border: 2px;
+  border-color: red;
 }
  
 /*navbar styling*/
 nav ul li{
   font-family: 'Abril Fatface', cursive;
   font-size: 20px;
+  color: white;
 }
 nav ul li:hover {
   font-family: 'Abril Fatface', cursive;
   font-size: 20px;
   background-color: #e6e6e6;
+  color: black;
+}
+
+#header {
+  color: black;
 }
 
 .currentpage {
-  background-color: #e6e6e6;
+  background-color: #5f9ea0;
 }
 .navbar-default{
-  background-color: white;
+  background-color: #a3c1ad;
    border: 0;
     -webkit-box-shadow: none;
     box-shadow: none;
@@ -30,8 +45,8 @@ nav ul li:hover {
   text-decoration: none;
   font-family: 'Abril Fatface', cursive;
   font-size: 20px;
-  background-color: white;
-  color: black;
+  background-color: #a3c1ad;
+  color: white;
 }
 .navbar-brand{
   font-family: 'Abril Fatface', cursive;
@@ -44,6 +59,10 @@ nav ul li:hover {
 }
 .navbar .navbar-collapse{
 text-align: center;
+color: black;
+}
+.foodpics {
+  border: 15px solid #000000;
 }
 .img-responsive{
   width:200px;
@@ -52,16 +71,17 @@ text-align: center;
 .door{
   width:600px;
   height: 400px;
+  border: 15px solid #000000;
 }
 
 body{
-  background-color: white;
-  color: black;
+  background-color: #a3c1ad;
+  color: white;
 }
 
 /*jumbotron styling*/
 .jumbotron{
-  background-color: white;
+  background-color: #a3c1ad;
   text-align: center;
   padding: 0px; 
 
@@ -89,7 +109,7 @@ h1{
 h2{
   text-align: center;
   font-family: 'Abril Fatface', cursive;
-  font-size: 10px;
+  font-size: 20px;
 }
 
 h3{
