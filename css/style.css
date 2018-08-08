@@ -9,22 +9,18 @@ a{
   color: black;
 }
 
-img {
-  border: 2px;
-  border-color: red;
-}
- 
+
 /*navbar styling*/
 nav ul li{
   font-family: 'Abril Fatface', cursive;
   font-size: 20px;
-  color: white;
+  color: black;
 }
 nav ul li:hover {
   font-family: 'Abril Fatface', cursive;
-  font-size: 20px;
-  background-color: #e6e6e6;
-  color: black;
+  font-size: 25px;
+  background-color: white;
+  color: #a3c1ad;
 }
 
 #header {
@@ -32,21 +28,25 @@ nav ul li:hover {
 }
 
 .currentpage {
-  background-color: #5f9ea0;
+  color: red;
 }
 .navbar-default{
-  background-color: #a3c1ad;
+  background-color: white;
    border: 0;
     -webkit-box-shadow: none;
     box-shadow: none;
     text-align: center;   
+    
+}
+.navbar .navbar-default{
+  color: black;
 }
 .navbar-nav{
   text-decoration: none;
   font-family: 'Abril Fatface', cursive;
   font-size: 20px;
-  background-color: #a3c1ad;
-  color: white;
+  background-color: white;
+  color: black;
 }
 .navbar-brand{
   font-family: 'Abril Fatface', cursive;
@@ -75,13 +75,13 @@ color: black;
 }
 
 body{
-  background-color: #a3c1ad;
-  color: white;
+  background-color: white;
+  color: black;
 }
 
 /*jumbotron styling*/
 .jumbotron{
-  background-color: #a3c1ad;
+  background-color: white;
   text-align: center;
   padding: 0px; 
 
