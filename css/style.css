@@ -1,5 +1,4 @@
 
-
 p{
   font-family: 'Roboto', sans-serif;
   font-size: 20px;
@@ -318,6 +317,38 @@ height: 300px;
 
 }
 
+.leftcolumn {
+  float:left;
+  width: 75%;
+}
+
+.rightcolumn{
+  float: left;
+  width:25%;
+  padding: 20px;
+
+
+}
+
+.photos {
+    background-color: #aaa;
+    width: 100%;
+    padding: 20px;
+}
+
+/* Add a card effect for articles */
+.card {
+     background-color: white;
+     padding: 20px;
+     margin-top: 20px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
 
 /*
   .nav {

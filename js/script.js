@@ -17,11 +17,6 @@ function submitFunction() {
 
 
 
-
-
-
-
-
 var myIndex = 0;
 carousel();
 
@@ -36,3 +31,12 @@ function carousel() {
     x[myIndex-1].style.display = "block";  
     setTimeout(carousel, 2000); // Change image every 2 seconds
 }
+
+// function validateForm() {
+// 	var x = document.forms["myForm"]["fname"].value;
+// 	if(x== "") 
+// 		alert ("Name must be filled in");
+// 	return false;
+// 	}
+
+
