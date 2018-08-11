@@ -7,3 +7,328 @@
 <li><a href="#">Contact Us</a></li>
 </ul>
 </nav>
+
+
+<!-- <div class="container">
+	<div class="row">
+		<div class="col-sm-3 thumb">
+			<img class="img-responsive" id="one" src="food/fruit.jpg">
+		<div class="text">ACAI SMOOTHIE BOWL €8</div>
+	</div>
+		<div class="col-sm-3 thumb two">	
+		<img class="img-responsive" id="two" src="food/eggs.jpg">	
+		<div class="text">SHAKSHUKA €8</div>
+	</div>
+		<div class="col-sm-3 thumb">
+			<img class="img-responsive" id="three" src="food/coffee.jpg">
+			<div class="text">LATTE €2.80</div>
+		</div>
+		<div class="col-sm-3 thumb">
+			<img class="img-responsive" id="four" src="food/soup.jpg">
+				<div class="text">BUTTERNUT SQUASH SOUP €4</div>
+		</div>
+	</div>
+	<hr>
+	<div class="row">
+		<div class="col-sm-3 thumb">
+			<img class="img-responsive" id="five" src="food/pancakes.jpg">
+			<div class="text">PANCAKES WITH FRUIT €8</div>
+		</div>
+		<div class="col-sm-3 thumb">	
+		<img class="img-responsive" id="six" src="food/sandwich.jpg">
+			<div class="text">HAM AND CHEESE TOASTIE €5</div>	
+		</div>
+		<div class="col-sm-3 thumb">
+			<img class="img-responsive" id="seven" src="food/pizza.jpg">
+				<div class="text">PIZZA €11</div>
+		</div>
+		<div class="col-sm-3 thumb">
+			<img class="img-responsive" id="eight" src="food/salads.jpg">
+				<div class="text">SEASONAL SALAD €8</div>
+		</div>
+	</div>
+</div>
+
+
+ -->
+
+
+
+
+<!-- <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script type="text/jquery" src="jquery/queryscript.js"></script>
+
+<script src="bootstrap/js/bootstrap.min.js"></script> -->
+
+
+
+
+<!-- <div class="jumbotron">
+	<div class="jumbocontainer">
+	<h1>PUSH THE SKY AWAY</h1><br> -->
+<!-- 	<br> -->
+	<!-- 	<p>~-~-~-~-~-~-~-~-~</p> -->
+	<!-- 	<p>Now serving brunch all weekend!</p> -->
+
+<!-- 	</div> -->
+<!-- </div> -->
+
+
+<!-- <div class="col-md-3 col-md-offset-2"> -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- <div id="myCarousel" class="carousel" data-ride="carousel" data-interval="false">
+	<div class="row">
+		<div class="col-sm-offset-3 col-sm-6">
+			<div class="carousel-inner">
+				<div class="item active">
+					<div class="carousel-content">
+						<div>
+							<h3>BRUNCH</h3>
+							<p><br>
+
+GRANOLA WITH FRUIT AND YOGURT €4<br><br>ACAI SMOOTHIE BOWL - ASK FOR FLAVOURS €6<br><br>FULL IRISH BREAKFAST - 2 RASHERS, 2 SAUSAGES, 2 EGGS ANY WAY, CLONAKILTY BLACK AND WHITE PUDDING, BEANS, TOMATO, TOAST €10<br><br>EGGS AND AVO ON TOAST:
+2 POACHED EGGS, SMASHED AVOCADO, WILTED GREENS ON TOASTED SOURDOUGH €8<br><br>SHAKSHUKA: 2 POACHED EGGS, TOMATO AND PEPPER SAUCE, 
+AUBERGINE, OLIVES, TOASTED SOURDOUGH  €8 <br><br>PANCAKES WITH BACON AND MAPLE SYRUP €8<br><br>WAFFLES WITH BERRIES AND ICE CREAM €8<br><br>ROASTED MUSHROOMS WITH SCRAMBLED EGGS, SPINACH AND SOURDOUGH €7<br><br>OMELETTE €8 - CHOOSE ANY 3 FILLINGS: HAM, CHEESE, TOMATO, ONION, POTATO, SPINACH.</p>
+
+						</div>
+					</div>
+				</div>
+				<div class="item">
+					<div class="carousel-content">
+						<div>
+							<h3>LUNCH</h3>
+							<p><br>SOUP - CHOOSE FROM: BUTTERNUT SQUASH, TUSCAN BEAN, CREAMY VEG €4<br><br>SEAFOOD CHOWDER WITH CRUSTY BREAD €5<br><br>ROAST TURKEY, CRANBERRY AND STUFFING SANDWICH €6<br><br>STEAK SANDWICH WITH FRIED ONIONS,ON CIABATTA €8<br><br>HAM AND CHEESE TOASTIE - HONEY BAKED HAM WITH CHARLEVILLE CHEESE €5<br><br>BLACK PUDDING SALAD - CLONAKILTY BLACK PUDDING, HALLOUMI, WALNUTS, WILTED GREENS €8<br><br>SPICY CHICKEN AND POMEGRANATE SALAD - MIXED LEAVES, PICKLED CUCUMBER, SLAW €9<br><br>OMELETTE €8 - CHOOSE ANY 3 FILLINGS: <br><br>HAM, CHEESE, TOMATO, ONION, POTATO, SPINACH, SMOKED SALMON.</p>
+						</div>
+					</div>
+				</div>
+					<div class="item">
+					<div class="carousel-content">
+						<div>
+							<h3>DINNER</h3>
+							<p><br>TACOS (3) €10 - CHOOSE FROM:<br><br>FISH - MONKFISH, SLAW, LIME CREMA<br>BEEF- CHILI MINCE WITH SOUR CREAM AND GUACAMOLE<br>PULLED PORK - SLOW COOKED PORK, SALSA<br>CHICKEN - CHIPOTLE CHICKEN, SALSA, SOUR CREAM<br><br>ANGUS BEEF BURGER - BEEF PATTY, CHEESE,BACON, LETTUCE, TOMATO RELISH €10<br><br>CHICKEN BURGER - CHICKEN FILLET, LETTUCE, CHIPOTLE MAYO, TOMATO €10<br><br>PIZZA - CHOOSE FROM MARGARITA, MEAT-FEST, HAWAIIAN, VEGGIE, PEPPERONI €11<br><br>RUMP STEAK - SERVED WITH TENDERSTEM BROCCOLI, MASH AND PEPPER SAUCE €12<br><br>POTATO AND CHICKPEA CURRY €9<br><br>SIDES: SWEET POTATO FRIES, MASHED POTATOES, GRAVY, CURRY SAUCE €1.50</p>
+						</div>
+					</div>
+				</div>
+				<div class="item">
+					<div class="carousel-content">
+						<div>
+							<h3>DESSERTS</h3>
+							<P><br>LEMON TART WITH BERRY COULIS €6<br><br>CHOCOLATE LAVA CAKE WITH ICE CREAM €5<br><br>BAILEYS CHEESECAKE €7<br><br>RHUBARB AND APPLE CRUMBLE €7<br><br>COFFEE AND WALNUT CAKE €6<br><br>JELLY AND ICE CREAM €5<br><br>ADD SCOOP ICE CREAM/CHOCOLATE SAUCE €1</P>
+						</div>
+					</div>
+				</div>
+				<div class="item">
+					<div class="carousel-content">
+						<div>
+							<h3>DRINKS</h3>
+							<p>AMERICANO €2.50<br>LATTE €2.80<br>CAPPUCCINO €2.80<br>FLAT WHITE €2.80<br>ESPRESSO €2.50<br>CHAI LATTE €3<br>TEA €2<br>COLD DRINKS:<br>COLD BREW €4<br>VIETNAMESE ICED COFFEE €4<br>ICED LATTE €3<br>ICED AMERICANO €3<br>FRESHLY SQUEEZED ORANGE JUICE €2.50<br>APPLE/PINEAPPLE JUICE €2<br>SOFT DRINKS €1.50<br>PROSECCO €6<br>MIMOSA €7<br>WINE (GLASS) €7<br>BEERS (330ML) €6</p>
+
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<a class="left carousel-control" href="#myCarousel" data-slide="prev">
+	<span class="glyphicon glyphicon-chevron-left"></span>
+	
+</a>
+<a class="right carousel-control" href="#myCarousel" data-slide="next"> 
+	<span class="glyphicon glyphicon-chevron-right"></span>
+	
+</a>
+</div> -->
+
+<!--
+<div class="container">
+
+<div id="myCarousel" class="carousel" data-ride="carousel" data-interval="false">
+<ol class="carousel-indicators">
+	<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+	<li data-target="#myCarousel" data-slide-to="1"></li>
+	<li data-target="#myCarousel" data-slide-to="2"></li>
+	<li data-target="#myCarousel" data-slide-to="3"></li>
+	<li data-target="#myCarousel" data-slide-to="4"></li>
+</ol>
+
+	<div class="carousel-inner">
+		<div class="item active">
+			<img class="img-responsive center-block" src="brunch.jpg" alt="Brunch">
+		</div>
+		<div class="item">
+			<img class="img-responsive center-block" src="lunch.jpg" alt="lunch">
+		</div>
+		<div class="item">
+			<img class="img-responsive center-block" src="dinner.jpg" alt="dinner">
+		</div>
+		<div class="item">
+			<img class="img-responsive center-block" src="desserts.jpg" alt="desserts">
+		</div>
+		<div class="item">
+			<img class="img-responsive center-block" src="drinks.jpg" alt="drinks">
+		</div>
+	</div>
+
+
+
+
+
+<a class="left carousel-control" href="#myCarousel" data-slide="prev">
+	<span class="glyphicon glyphicon-chevron-left"></span>
+	
+</a>
+<a class="right carousel-control" href="#myCarousel" data-slide="next"> 
+	<span class="glyphicon glyphicon-chevron-right"></span>
+	
+</a>
+</div>
+
+</div>
+
+-->
+
+
+
+
+
+<!-- 
+
+<footer>
+<h2>sea&stone 2018©</h2>
+</footer> -->
+
+
+
+
+
+
+
+
+
+
+<!--<p>IF YOU WANT TO GET IN TOUCH, PLEASE FILL IN THE FORM BELOW</p>-->
+
+<!--<div class="container">
+<div class="row contact">
+
+
+
+
+				<div class="col-md-6">
+				<fieldset>
+					<legend class="ledge">CONTACT DETAILS</legend>
+<p>CALL US: 017001234 or 0871234567</p>
+<p>EMAIL US: pushtheskyaway@domain.com</p>
+<a href="http://www.facebook.com" class="fa fa-facebook"></a> <a href="http://www.instagram.com" class="fa fa-instagram"></a>  <a href="http://www.twitter.com" class="fa fa-twitter"></a>
+</fieldset>
+
+
+		
+	</div>
+	
+
+
+			<div class="col-md-6">
+
+		<form name ="myForm" id="contactForm" action="server_side_script.php" method="post" class="form-inline" onsubmit="return validateForm()">
+			<div class="form-group">
+	<fieldset>
+		<legend class="ledge">TO BOOK AN EVENT, FILL IN THE FORM BELOW (*REQUIRED FIELD)</legend> 
+
+
+
+
+<label for="name" class="field" required>NAME*</label>
+<input type="text" placeholder="Name" id="name" name="name"/>
+
+
+
+<label for="email" class="field" required>EMAIL ADDRESS*</label>
+<input type="email" placeholder="name@domain.com" id="email" name="email"/>
+
+
+
+<label for="phone" class="field" required>PHONE NUMBER*</label>
+<input type="text" placeholder="Phone number" pattern="[0-9]{10}" title="10 digit number" id="phone" name="phone"/>
+
+<label for="comment" class="field" required>YOUR COMMENTS*</label>
+<textarea type="text" placeholder="Your comments" id="comms" name="comments" maxlength="300"></textarea>
+
+<label for="event" class="field" required>EVENT TYPE*</label>
+<textarea type="text" placeholder="Event Summary e.g. Birthday" id="event" name="event" maxlength="300"></textarea>
+
+<label for="guests" class="field" required>NUMBER OF GUESTS*</label>
+<select name="howmany">
+	<option value="1-10" selected>1-10</option>
+		<option value="11-20">11-20</option>
+				<option value="21-30">21-30</option>*
+						<option value="31-40">31-40</option>
+								<option value="41-50">41-50</option>
+							</select>
+										
+
+
+</fieldset>
+<br>
+<input type="submit" value="Submit"/>
+
+</div>
+<br><br>
+</form>
+		
+	
+	</div>
+
+
+
+
+
+
+</div>
+-->
+
+<!--<form id="eventForm" action="server.php" method="post">
+	<div class="form-group">
+
+<fieldset>
+	<legend>EVENT BOOKING</legend>
+		<p>IF YOU ALSO WISH TO BOOK AN EVENT, PLEASE FILL IN THE FOLLOWING:</p>
+
+<label for="event" class="field" required>EVENT TYPE*</label>
+<input type="text" placeholder="Event Summary e.g. Birthday" id="event" name="event"><br><br>
+
+<label for="guests" class="field" required>NUMBER OF GUESTS</label>
+<select name="howmany">
+	<option value="1-10" selected>1-10</option>
+		<option value="11-20">11-20</option>
+				<option value="21-30">21-30</option>*
+						<option value="31-40">31-40</option>
+								<option value="41-50">41-50</option>
+							</select>
+										
+
+
+
+</fieldset>
+
+
+
+
+		</div>
+		</form>-->
+
+

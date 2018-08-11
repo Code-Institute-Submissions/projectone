@@ -10,19 +10,19 @@
 <link rel="stylesheet" type="text/css" href="css/style.css">
 <link href="https://fonts.googleapis.com/css?family=Abril+Fatface|Roboto" rel="stylesheet">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-	
 </head>
 
 <body> 
-	<div id="header">
+			<div id="header">
 		<div class="container">
 			<div class="row align-items-center">
-				
+			
 		<h1><div>sea<span style='font-size:1.3em;'>&</span>stone</div></h1>
 	</div>
 </div>
 
 	</div>
+
 
 
 
@@ -39,49 +39,69 @@
 	
 
 <div class="collapse navbar-collapse" id="myCollapseList">
-		<ul class="nav navbar-nav navbar-default">
+		<ul class="nav navbar-nav navbar-center">
 			
-<li><a href="index.html">Home</a></li>
+<li class="currentpage"><a href="index.html">Home</a></li>
 <li><a href="about.html">About</a></li>
 <li><a href="menus.html">Menus</a></li>
-<li class="currentpage"><a href="location.html">Location</a></li>
+<li><a href="location.html">Location</a></li>
 <li><a href="contact.html">Contact Us</a></li>
 </ul>
 </div>
-
+</div>
 </nav>
 </div>
 
-<div class="container">
-		
-	<div class="row about">
-		<div class="col-lg-7">
-			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2381.617682540017!2d-6.283816984681095!3d53.350099679979785!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48670c2dde0932f9%3A0xdfc2054af08429d2!2s1+Stoneybatter%2C+Arran+Quay%2C+Dublin+7%2C+D07+FW53!5e0!3m2!1sen!2sie!4v1512139638325" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-		</div>
-		<div class="col-lg-5 locate">	
-<p>1 STONEYBATTER,<BR> ARRAN QUAY,<BR>DUBLIN 7, <BR>D07 FW53<BR><br>WE ARE LOCATED IN THE HEART OF STONEYBATTER VILLAGE, A SHORT STROLL FROM PHOENIX PARK, COLLINS BARRACKS AND HEUSTON STATION. </p>
-		</div>
-		
+
+
+
+<div class="w3-content w3-section foodpics" style="max-width:500px">
+	<img class="myPics" src="food/avo.jpg" style="width:100%">
+	<img class="myPics" src="food/coffee.jpg" style="width:100%">
+	<img class="myPics" src="food/bowl.jpg" style="width:100%">
+	<img class="myPics" src="food/cake.jpg" style="width:100%">
+	<img class="myPics" src="food/sandwich.jpg" style="width:100%">
+	<img class="myPics" src="food/pancakes.jpg" style="width:100%">
+	<img class="myPics" src="food/eggs.jpg" style="width:100%">
+	<img class="myPics" src="food/soup.jpg" style="width:100%">
+	<img class="myPics" src="food/pastry.jpg" style="width:100%">
+	<img class="myPics" src="food/pizza.jpg" style="width:100%">
+
+
+
 	</div>
 
+<script>
+
+var slideIndex = 0;
+carousel();
+
+function carousel() {
+	var i;
+	var x = document.getElementsByClassName("myPics");
+	for (i = 0; i < x.length; i++) {
+		x[i].style.display = "none";
+	}
+	slideIndex++;
+	if (slideIndex > x.length) {slideIndex = 1}
+	x[slideIndex-1].style.display = "block";
+	setTimeout(carousel, 4000);
+}
+</script>
+
+  
 
 
 
-
-
-
-
-
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-<script tye="text/jquery" src="jquery/queryscript.js"></script>
-
-<script src="bootstrap/js/bootstrap.min.js"></script>
-
-<script type="text/javascript" src="js/script.js"></script>
 
 <footer>
 	<h2>sea&stone 2018©</h2>
 </footer>
+
+
+
+
+
 </body>
 
 

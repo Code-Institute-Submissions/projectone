@@ -1,6 +1,6 @@
-/*$(document).ready(function() { 
+$(document).ready(function() { 
 
-
+/*
 $('text').hide().removeClass('text').addClass('text-js');
 
 $('thumb').hover(function(){
@@ -9,13 +9,17 @@ $('thumb').hover(function(){
 
 
 
-$("thumb").mouseover(function(){
-	$("text").show();
+$(".thumb").mouseover(function(){
+
+	$(this).children(".text").show();
 });
 
-$("thumb").mouseout(function(){
-	$("#text").hide();
- });
+});
+
+// $(".thumb").mouseout(function(){
+// 	$(".text").hide$(this).children(".text")
+
+// });
 
    /*$("button").mouseenter(function(){
         $('button').toggle('medium');
@@ -73,4 +77,4 @@ $("thumb").mouseout(function(){
 
     //});
 
-});
+});*/

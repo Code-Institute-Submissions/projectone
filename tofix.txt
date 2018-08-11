@@ -5,6 +5,7 @@ Homepage:
 1.Homepage images warping to rectangles on mobile device
 2. Hover over image too big on mobile device
 3. should it be minimised menu only on mobile devices?
+4. menu minimised on home page but not on others
 
 About:
 
