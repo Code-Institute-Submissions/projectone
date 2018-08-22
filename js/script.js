@@ -1,12 +1,3 @@
-// function validateForm() {
-// 	var x = document.forms["myForm"]["fname"].value;
-// 	if(x== "") 
-// 		alert ("Name must be filled in");
-// 	return false;
-	
-// }
-
-
 
 function submitFunction() {
 
@@ -32,11 +23,6 @@ function carousel() {
     setTimeout(carousel, 2000); // Change image every 2 seconds
 }
 
-// function validateForm() {
-// 	var x = document.forms["myForm"]["fname"].value;
-// 	if(x== "") 
-// 		alert ("Name must be filled in");
-// 	return false;
-// 	}
+
 
 
