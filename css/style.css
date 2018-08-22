@@ -38,7 +38,7 @@ nav ul li:hover {
 }
 
 .currentpage {
-  color: rgb(84, 141, 212);
+  background-color: #e1ebf7;
 }
 
 .navbar-default{
