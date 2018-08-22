@@ -2,20 +2,18 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>Push The Sky Away</title>
-<link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
+<title>sea&stone</title>
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <link rel='stylesheet' type='text/css' href="bootstrap/css/bootstrap.min.css"/>
-
-<link rel="stylesheet" type="text/css" href="css/style.css">
-<link href="https://fonts.googleapis.com/css?family=Abril+Fatface|Roboto" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Abril+Fatface|Roboto+Slab" rel="stylesheet">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" type="text/css" href="css/style.css">
 <script type="text/javascript" src="js/script.js"></script>
 </head>
 
 <body> 
 	<div id="header">
-		<div class="container">
+		<div class="container">  
 			<div class="row align-items-center">
 			
 		<h1><div>sea<span style='font-size:1.3em;'>&</span>stone</div></h1>
@@ -55,13 +53,90 @@
 </div>
 
 
+<div id="cardcontainer">		
+		<div class="card form">
+			<fieldset>
+
+		<form name ="myForm" id="contactForm" method="post" class="form-inline" onsubmit="return submitFunction()">
+			<div class="form-group">
+	
+		<p>To book an event, fill in the form below (*Required field)</p>
+<br>
+
+
+
+<label for="name" class="field">NAME*</label>
+<input type="text" placeholder="Name" id="name" name="name" required/>
+
+
+
+<label for="email" class="field">EMAIL ADDRESS*</label>
+<input type="email" placeholder="name@domain.com" id="email" name="email" required/>
+
+
+
+<label for="phone" class="field">PHONE NUMBER*</label>
+<input type="text" placeholder="Phone number" pattern="[0-9]{10}" title="10 digit number" id="phone" name="phone" required/>
+
+<label for="comment" class="field">YOUR COMMENTS*</label>
+<textarea type="text" placeholder="Your comments" id="comms" name="comments" maxlength="300" required></textarea>
+
+<label for="event" class="field">EVENT TYPE*</label>
+<textarea type="text" placeholder="Event Summary e.g. Birthday, Christmas Party" id="event" name="event" maxlength="300" required></textarea>
+
+<label for="guests" class="field">NUMBER OF GUESTS*</label>
+<select name="howmany" required>
+	<option value="1-10" selected>1-10</option>
+		<option value="11-20">11-20</option>
+				<option value="21-30">21-30</option>*
+						<option value="31-40">31-40</option>
+								<option value="41-50">41-50</option>
+							</select>
+										
+
+
+
+<br><br>
+
+<input type="submit" value="Submit"/>
+
+
+<br><br>
+</form>
+
+</fieldset>
+</div>
+
+	<div class="card contact">
+
+<div class="col-lg-12"><fieldset>
+	<p>Contact Details</p>
+				
+					<!-- <legend class="ledge">CONTACT DETAILS</legend> -->
+<p>Call us: 01-7001234 or 087-1234567</p>
+<p>Email us: seaandstone@domain.com</p>
+<a href="http://www.facebook.com/sea@ndstone" class="fa fa-facebook"></a> <a href="http://www.instagram.com/sea@ndstone" class="fa fa-instagram"></a>  <a href="http://www.twitter.com/sea@ndstone" class="fa fa-twitter"></a><hr> 	</fieldset>
+	
+	</div>
+</div>
 
 
 
 
 
 
-<div class="container">
+	
+	</div>
+
+
+
+
+
+
+
+
+
+<!-- <div class="container">
 <div class="row contact">
 
 
@@ -99,7 +174,7 @@
 <textarea type="text" placeholder="Your comments" id="comms" name="comments" maxlength="300" required></textarea>
 
 <label for="event" class="field">EVENT TYPE*</label>
-<textarea type="text" placeholder="Event Summary e.g. Birthday" id="event" name="event" maxlength="300" required></textarea>
+<textarea type="text" placeholder="Event Summary e.g. Birthday, Christmas Party" id="event" name="event" maxlength="300" required></textarea>
 
 <label for="guests" class="field">NUMBER OF GUESTS*</label>
 <select name="howmany" required>
@@ -141,7 +216,7 @@
 
 
 
-
+ -->
 
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 <script src="http://code.jquery.com/jquery.min.js"></script>
