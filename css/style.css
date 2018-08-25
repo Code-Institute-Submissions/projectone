@@ -102,9 +102,6 @@ nav ul li:hover {
   flex:1 0 auto;
 }
 
-  
-}
-
 #cardcontainer
 {
   display: flex;    /* makes container a flexbox*/
@@ -344,4 +341,15 @@ height: 300px;
     clear: both;
 }
 
+/*
+  .nav {
+    font-size: 0;
+  }
+  .nav {
+    display: inline-block;
+    width: 120px;
+    font-size: 20px;
+    border-bottom: none;
+  }
+  */
 
