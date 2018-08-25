@@ -72,8 +72,8 @@ nav ul li:hover {
    float: none;
 }
 .navbar .navbar-collapse{
-  text-align: center;
-  color: black;
+text-align: center;
+color: black;
 }
 #logoNav{
   flex:6;
@@ -122,7 +122,11 @@ nav ul li:hover {
   padding: 20px;
   background-color: #f5f5f5;
 }
-
+/*.veg{
+  width:600px;
+  height: 400px;
+  border: 15px solid #000000;
+}*/
 
 
 .menutext{
@@ -140,7 +144,26 @@ body{
   color: black;
 }
 
+/*jumbotron styling*/
+/*.jumbotron{
+  background-color: white;
+  text-align: center;
+  padding: 0px; 
 
+}
+.jumbotron p{
+    font-family: 'Abril Fatface', cursive;
+  font-size: 18px;
+  color: black;
+}
+.jumbotron h1{
+  font-size: 35px;
+  font-family: 'Abril Fatface', cursive;
+  color: black;
+  margin: 0px;
+  padding-bottom: 0px;
+}
+*/
 
 h1{
   font-family: 'Abril Fatface', cursive;
@@ -161,6 +184,51 @@ h3{
   font-size: 30px;
 
 }
+
+/*carousel styling*/
+
+/*.carousel-content{
+  display: flex;
+  align-items: center;
+  margin: auto;
+}
+
+#myCarousel{
+  width: 100%;
+  height: auto;
+  padding: 50px;
+
+}
+.carousel-control{
+  color: black;
+  background-image: none !important;
+}
+}
+a.right.carousel-control{
+  color: black;
+}
+a.left.carousel-control{
+  color: black;
+
+}
+
+ol.carousel-indicators li{
+  color: white;
+  background: #a9a9a9;
+}
+ol.carousel-indicators li.active{
+  color: white;
+  background: black;
+}
+.carousel-indicators{
+  bottom: -20px;
+}*/
+/*
+.center-block{
+  width:25%;
+}*/
+
+/*form styling*/
 
 
 label{
@@ -246,7 +314,11 @@ height: 300px;
 
  text-shadow: 2px 2px 8px #000;
 }
-
+/*
+}
+.thumb .two{
+  padding: 80px 80px;
+}*/
 .thumb:hover .text{
   display: block;
   opacity: 50%;
