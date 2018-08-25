@@ -101,6 +101,10 @@ nav ul li:hover {
 .card_para{
   flex:1 0 auto;
 }
+.card-about {
+  border: 15px solod #777;
+  
+}
 
 #cardcontainer
 {
