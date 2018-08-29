@@ -82,7 +82,7 @@ color: black;
   font-size: 2em;
   font-weight: bold;
 }
-.foodpics .card-about {
+.foodpics .card-about .map {
   border: 15px solid #777;
 }
 .img-responsive{
@@ -122,6 +122,13 @@ color: black;
   margin: 10px;
   padding: 20px;
   background-color: #f5f5f5;
+}
+
+.map {
+  
+  
+  
+  
 }
 /*.veg{
   width:600px;
