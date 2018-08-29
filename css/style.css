@@ -92,6 +92,10 @@ color: black;
 .card_image{
   width: 100%;
 }
+.card-about {
+  width: 100%;
+  border: 15px solid #777;
+}
 .card_bottom{
   display: flex;
   flex-flow:column;
