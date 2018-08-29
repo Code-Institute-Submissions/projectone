@@ -94,7 +94,7 @@ color: black;
 .card_image{
   width: 100%;
 }
-.card-about .locate {
+.card-about {
   width: 100%;
 }
 .card_bottom{
@@ -108,7 +108,7 @@ color: black;
   flex:1 0 auto;
 }
 .direct{
-  text-align: justify;
+  text-align: center;
 }
 
 .menu {
