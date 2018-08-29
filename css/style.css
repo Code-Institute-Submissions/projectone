@@ -135,6 +135,11 @@ color: black;
   background-color: #f5f5f5;
 }
 
+.map {
+  max-height: 400px;
+  max-width: 400px;
+}
+
 .direct{
   flex:1; /* */
   display: flex;  /* make the contents controllable by flexbox*/
