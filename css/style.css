@@ -107,9 +107,7 @@ color: black;
 .card_para{
   flex:1 0 auto;
 }
-.direct{
-  text-align: center;
-}
+
 
 .menu {
   padding: 5px 5px 5px 5px;
@@ -136,12 +134,12 @@ color: black;
   background-color: #f5f5f5;
 }
 
-.map {
-  
-  
-  
-  
+.card .direct{
+  text-align: center;
+  padding: 5px;
+  margin: 5px;
 }
+
 /*.veg{
   width:600px;
   height: 400px;
