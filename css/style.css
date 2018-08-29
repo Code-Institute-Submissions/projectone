@@ -135,9 +135,12 @@ color: black;
 }
 
 .card .direct{
+  flex:1; /* */
+  display: flex;  /* make the contents controllable by flexbox*/
+  flex-flow:column; /* */
   text-align: center;
-  padding: 5px;
   margin: 5px;
+  width: 100%;
 }
 
 /*.veg{
