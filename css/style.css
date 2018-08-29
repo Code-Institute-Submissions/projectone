@@ -94,9 +94,8 @@ color: black;
 .card_image{
   width: 100%;
 }
-.card-about {
+.card-about .card-locate {
   width: 100%;
-
 }
 .card_bottom{
   display: flex;
