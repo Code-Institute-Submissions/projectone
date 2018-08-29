@@ -107,6 +107,9 @@ color: black;
 .card_para{
   flex:1 0 auto;
 }
+.card-direct{
+  text-align: justify;
+}
 
 .menu {
   padding: 5px 5px 5px 5px;
