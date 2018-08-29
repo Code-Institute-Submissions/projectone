@@ -6,6 +6,7 @@
 
 .navbar-default .navbar-nav li a:hover{
   color: rgb(84, 141, 212);
+  font-size: 20px;
 }
 
 p{
@@ -23,10 +24,10 @@ nav ul li{
   font-family: 'Abril Fatface', cursive;
   font-size: 20px;
   color: black;
-}
+} 
 nav ul li:hover {
   font-family: 'Abril Fatface', cursive;
-  font-size: 25px;
+  font-size: 20px;
   background-color: white;
   color: red;
 }
