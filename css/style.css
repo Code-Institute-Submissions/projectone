@@ -82,7 +82,7 @@ color: black;
   font-size: 2em;
   font-weight: bold;
 }
-.foodpics {
+.foodpics .card-about {
   border: 15px solid #777;
 }
 .img-responsive{
