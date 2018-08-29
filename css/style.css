@@ -134,7 +134,7 @@ color: black;
   background-color: #f5f5f5;
 }
 
-.card .direct{
+.direct{
   flex:1; /* */
   display: flex;  /* make the contents controllable by flexbox*/
   flex-flow:column; /* */
