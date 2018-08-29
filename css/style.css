@@ -109,9 +109,10 @@ color: black;
   flex:1 0 auto;
 }
 
-.card-menu {
+.menu {
   padding: 5px 5px 5px 5px;
 }
+
 #cardcontainer
 {
   display: flex;    /* makes container a flexbox*/
