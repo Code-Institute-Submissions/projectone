@@ -27,6 +27,9 @@ Contact:
 The contact page gives visitors the opportunity to fill in a form if they want to book an event like a Christmas party or family gathering. It also gives visitors all contact details like phone number and email address as well as links to the Facebook, Instagram and Twitter accounts for sea&stone. 
 
 
+Image & Video sources.
+
+All imagery and videos on the website are royalty and commerical free for reuse. All imagery was found at Unsplash.com while the videos were sourced from **** with music added later by me in Windows movie maker. 
 
 The homepage just has 3 simple images
 
