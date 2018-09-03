@@ -2,7 +2,7 @@
 function submitFunction() {
 
 	alert("Thank you for contacting us. We will be in touch soon");
-    window.location.href = "contact.html";
+    window.location.href = "index.html";
 }
 
 
