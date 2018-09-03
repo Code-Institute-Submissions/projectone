@@ -249,17 +249,6 @@ textarea{
     color: rgb(84, 141, 212);
 }
 
- 
-
-
-
-.photos {
-    background-color: #aaa;
-    width: 100%;
-    padding: 20px;
-}
-
-
 
 /* Clear floats after the columns */
 .row:after {
