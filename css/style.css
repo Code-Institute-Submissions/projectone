@@ -135,7 +135,11 @@ color: black;
   max-width: 500px;
 }
 
-.direct .hours{
+.direct {
+  text-align: center;
+}
+
+.hours {
   text-align: center;
 }
 
