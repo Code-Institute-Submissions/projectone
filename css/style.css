@@ -300,13 +300,19 @@ textarea{
 
 @media (max-width: 767px){
 
-}
-
-@media (min-width: 768px) and (max-width: 991px) {
-
   img {
     width:50%;
     height: 50%;
+  }
+}
+
+
+/* the last media query has precedence*/
+@media (min-width: 768px) and (max-width: 991px) {
+
+  img {
+    width:75%;
+    height: 75%;
   }
 
 }
