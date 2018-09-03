@@ -1,8 +1,34 @@
-This is a website for a fictional restaurant called Sea&Stone.
+This is a website for a fictional restaurant called sea&stone.
 
 It contains all the basic information one might need when choosing somewhere to eat.
 
-The homepage just has 3 simple images 
+Homepage:
+
+The homepage is kept simple and clean, and just displays 3 simple images to convey the type of food found in sea&stone.
+
+About:
+
+The about page gives some basic info on sea&stone, like opening hours and whats served. 
+
+News:
+
+The news page is like a blog, detailing news and upcoming events at sea&stone. It also includes some videos to give customers an idea of what the events are like, ie the barista master class. 
+
+Menus:
+
+The menu page includes a simple js carousel showing some of the food available at sea&stone. It also has links to 5 menus, all of which open in new tabs or download to your mobile device. The menus were made simply in Microsoft word keeping a consistent colour scheme and font detail.
+
+Location: 
+
+The location page includes a Google map which can easily be used for directions to sea&stone as well as the address and info on parking nearby.
+
+Contact:
+
+The contact page gives visitors the opportunity to fill in a form if they want to book an event like a Christmas party or family gathering. It also gives visitors all contact details like phone number and email address as well as links to the Facebook, Instagram and Twitter accounts for sea&stone. 
+
+
+
+The homepage just has 3 simple images
 
 https://unsplash.com/photos/hfK401V_NXk
 https://unsplash.com/photos/w6ftFbPCs9I
