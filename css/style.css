@@ -301,8 +301,8 @@ textarea{
 @media (max-width: 767px){
 
   img {
-    width:50%;
-    height: 50%;
+    width:100%;
+    height: auto;
   }
 }
 
@@ -311,8 +311,8 @@ textarea{
 @media (min-width: 768px) and (max-width: 991px) {
 
   img {
-    width:75%;
-    height: 75%;
+    width:100%;
+    height: auto;
   }
 
 }
