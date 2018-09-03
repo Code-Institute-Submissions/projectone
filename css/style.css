@@ -172,27 +172,28 @@ h3{
   font-size: 30px;
 }
 
+/*Contact form styling*/
 
 label{
   width: 170px;
   height: 20px;
 }
+
 input{
   border-radius: 4px;
   padding: 4px 4px;
    width: 170px;
    margin-bottom: 5px
 }
-#comms{
-  padding-bottom: 80px;
 
-}
 .field{
   padding: 6px 2px 6px 2px;
 }
+
 label, input{
   display: block;
 }
+
 fieldset{
   display: block;
   font-family: 'Roboto Slab', serif;
@@ -204,20 +205,14 @@ fieldset{
   min-width: -webkit-min-content;
   float: none;
   margin: 0 auto;
+}
 
-}
-.ledge{
-  padding:5px;
-  background-color: white;
-  /*border-style:solid;
-  border-color: gray;
-border-width: 2px;*/
-}
 #event{
   width: 210px;
   height:70px;
   padding-bottom: 50px;
 }
+
 #comms{
   height:70px;
   width:210px;
@@ -228,18 +223,13 @@ textarea{
   width: 300px;
 }
 
-.damn{
-  background-color: blue;
-}
-
-
 .text{
   display: none;
   position: absolute;
   bottom:0;
   width: 200px;
   height: 200px;
-  background: rgba(124,124,123,0.5);
+  background: #ff0000;
   padding: 50px 50px;
   text-align: center;
   color: white;
