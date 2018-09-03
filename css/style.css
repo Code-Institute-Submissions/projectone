@@ -223,21 +223,21 @@ textarea{
   width: 300px;
 }
 
-.text{
-  display: none;
-  position: absolute;
-  bottom:0;
-  width: 200px;
-  height: 200px;
-  background: #ff0000;
-  padding: 50px 50px;
-  text-align: center;
-  color: white;
-  font-family: 'Roboto Slab', serif;
-  font-size: 20px;
-  font-weight: bold;
-  text-shadow: 2px 2px 8px #000;
-}
+/*.text{*/
+/*  display: none;*/
+/*  position: absolute;*/
+/*  bottom:0;*/
+/*  width: 200px;*/
+/*  height: 200px;*/
+/*  background: #ff0000;*/
+/*  padding: 50px 50px;*/
+/*  text-align: center;*/
+/*  color: white;*/
+/*  font-family: 'Roboto Slab', serif;*/
+/*  font-size: 20px;*/
+/*  font-weight: bold;*/
+/*  text-shadow: 2px 2px 8px #000;*/
+/*}*/
 
 
 .row .contact{
