@@ -27,15 +27,6 @@ nav ul li:hover {
   background-color: white;
 }
 
-p{
-  font-family: 'Roboto Slab', serif;
-  font-size: 20px;
-  color: black;
-}
-a{
-  color: black;
-}
-
 .currentpage {
   background-color: #e1ebf7;
 }
@@ -75,12 +66,22 @@ text-align: center;
 color: black;
 }
 
-#logoNav{
-  flex:6;
-  text-align: left;
-  font-size: 2em;
-  font-weight: bold;
+
+
+
+
+/* general styling */
+
+p{
+  font-family: 'Roboto Slab', serif;
+  font-size: 20px;
+  color: black;
 }
+a{
+  color: black;
+}
+
+
 .foodpics .card-about .map {
   border: 15px solid #777;
 }
@@ -140,6 +141,10 @@ color: black;
 }
 
 .hours {
+  text-align: center;
+}
+
+.contact {
   text-align: center;
 }
 
