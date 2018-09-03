@@ -1,4 +1,4 @@
-
+//Alert function found online //
 function submitFunction() {
 
 	alert("Thank you for contacting us. We will be in touch soon");
@@ -7,7 +7,7 @@ function submitFunction() {
 
 
 
-
+//Image carousel from W3//
 var myIndex = 0;
 carousel();
 
