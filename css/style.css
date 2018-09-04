@@ -232,6 +232,10 @@ textarea{
   width: 300px;
 }
 
+.call .email {
+  font-weight: bold;
+}
+
 .row .contact{
   
   margin: 0 auto;
@@ -244,6 +248,7 @@ textarea{
   font-family: 'Roboto Slab', serif;
   font-size: 20px;
 }
+
 .fa {
     padding: 20px;
     font-size: 35px;
