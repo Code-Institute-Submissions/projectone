@@ -77,6 +77,12 @@ p{
   font-size: 20px;
   color: black;
 }
+
+p .call .email {
+  font-weight: bold;
+}
+
+
 a{
   color: black;
 }
@@ -232,9 +238,6 @@ textarea{
   width: 300px;
 }
 
-.call .email {
-  font-weight: bold;
-}
 
 .row .contact{
   
