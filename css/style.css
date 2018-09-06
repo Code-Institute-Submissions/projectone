@@ -15,6 +15,7 @@ nav ul li{
   font-size: 20px;
   color: black;
 } 
+
 nav ul li:hover {
   font-family: 'Abril Fatface', cursive;
   font-size: 20px;
@@ -37,14 +38,16 @@ nav ul li:hover {
     -webkit-box-shadow: none;
     box-shadow: none;
     text-align: center;   
-    
 }
+
 .navbar-default .navbar-nav{
   color: black;
 }
+
 .navbar .navbar-default{
   color: black;
 }
+
 .navbar-nav{
   text-decoration: none;
   font-family: 'Abril Fatface', cursive;
@@ -52,27 +55,32 @@ nav ul li:hover {
   background-color: white;
   color: black;
 }
+
 .navbar-brand{
   font-family: 'Abril Fatface', cursive;
   color: black;
   font-size: 25px;
 }
+
 .navbar .navbar-nav{
    display: inline-block;
    float: none;
 }
+
 .navbar .navbar-collapse{
 text-align: center;
 color: black;
 }
 
 
-
-
-
 /* general styling */
 
-p{
+body{
+  
+  background-color: white;
+  color: black;
+}
+p {
   font-family: 'Roboto Slab', serif;
   font-size: 20px;
   color: black;
@@ -82,36 +90,50 @@ p .call .email {
   font-weight: bold;
 }
 
-
 a {
   color: black;
 }
 
+h1{
+  font-family: 'Abril Fatface', cursive;
+  text-align: center;
+  font-weight: bold;
+}
 
-.foodpics .card-about .map {
-  border: 15px solid #777;
+h2{
+  text-align: center;
+  font-family: 'Abril Fatface', cursive;
+  font-size: 20px;
 }
-.img-responsive{
-  width:200px;
-  height:200px;
+
+h3{
+  font-family: 'Abril Fatface', cursive;
+  text-align: center;
+  font-weight: bold;
+  font-size: 30px;
 }
+
+/*.foodpics .card-about .map {*/
+/*  border: 15px solid #777;*/
+/*}*/
+
+/*Image & Card Styling */
+
 .card_image{
   width: 100%;
 }
+
 .card-about {
   width: 100%;
 }
-.card_bottom{
-  display: flex;
-  flex-flow:column;
-}
+
 .card_head{
   flex:0;
 }
+
 .card_para{
   flex:1 0 auto;
 }
-
 
 .menu {
   padding: 5px 5px 5px 5px;
@@ -146,6 +168,12 @@ a {
   text-align: center;
 }
 
+.locate{
+  text-align: left;
+  font-family: 'Roboto Slab', serif;
+  font-size: 20px;
+}
+
 .hours {
   text-align: center;
 }
@@ -161,31 +189,6 @@ a {
   color: black;
 }
 
-body{
-  
-  background-color: white;
-  color: black;
-}
-
-
-h1{
-  font-family: 'Abril Fatface', cursive;
-  text-align: center;
-  font-weight: bold;
-}
-
-h2{
-  text-align: center;
-  font-family: 'Abril Fatface', cursive;
-  font-size: 20px;
-}
-
-h3{
-  font-family: 'Abril Fatface', cursive;
-  text-align: center;
-  font-weight: bold;
-  font-size: 30px;
-}
 
 /*Contact form styling*/
 
@@ -239,18 +242,10 @@ textarea{
 }
 
 
-.row .contact{
-  
-  margin: 0 auto;
-  float: none;
-}
-
-
-.locate{
-  text-align: left;
-  font-family: 'Roboto Slab', serif;
-  font-size: 20px;
-}
+/*.row .contact{*/
+/*  margin: 0 auto;*/
+/*  float: none;*/
+/*}*/
 
 .fa {
     padding: 20px;
@@ -269,6 +264,9 @@ textarea{
     clear: both;
 }
 
+
+
+/*Media queries*/
 
 @media (max-width: 600px){
   
