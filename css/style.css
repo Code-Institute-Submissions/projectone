@@ -123,9 +123,10 @@ h3{
   width: 100%;
 }
 
-/*.card-about {*/
-/*  width: 100%;*/
-/*}*/
+.card-about {
+  width: 100%;
+  padding-bottom: 10px;
+}
 
 .card_head{
   flex:0;
