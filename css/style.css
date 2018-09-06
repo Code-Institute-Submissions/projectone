@@ -280,6 +280,10 @@ textarea{
 
 /* the last media query has precedence*/
 @media (min-width: 768px) and (max-width: 991px) {
+  
+  #cardcontainer {
+    display: inline;
+  }
 
   img {
     max-width:100%;
