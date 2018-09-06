@@ -139,7 +139,7 @@ a {
 
 .map {
   max-height: 400px;
-  max-width: 500px;
+  width: auto;
 }
 
 .direct {
@@ -267,6 +267,19 @@ textarea{
     content: "";
     display: table;
     clear: both;
+}
+
+
+@media (max-width: 600px){
+  
+  #cardcontainer {
+    display: inline;
+  }
+
+  img {
+    max-width: 100%;
+    height: auto;
+  }
 }
 
 @media (max-width: 767px){
