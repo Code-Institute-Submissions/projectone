@@ -270,6 +270,10 @@ textarea{
 }
 
 @media (max-width: 767px){
+  
+  #cardcontainer {
+    display: inline;
+  }
 
   img {
     max-width: 100%;
