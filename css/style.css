@@ -149,6 +149,15 @@ h3{
   max-width:1050px; 
 }
 
+.cardcontainer {
+  display: flex;    /* makes container a flexbox*/
+  flex-flow: row wrap;  /* layout the boxes in rows and wrap them*/
+  box-sizing:border-box;
+  margin-right:auto;
+  margin-left:auto;
+  max-width:1050px; 
+}
+
 .card{
   flex:1; /* */
   display: flex;  /* make the contents controllable by flexbox*/
@@ -157,6 +166,10 @@ h3{
   margin: 10px;
   padding: 25px;
   background-color: #f5f5f5;
+}
+
+.intro {
+  background-color: white;
 }
 
 .map {
