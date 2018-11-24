@@ -125,6 +125,9 @@ a.headertext {
   font-size: 36px;
   text-decoration: none;
 }
+a.headertext:hover{
+  color: rgb(84, 141, 212);
+}
 
 /*Image & Card Styling */
 
