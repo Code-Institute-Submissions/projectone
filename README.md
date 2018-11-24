@@ -14,6 +14,8 @@ I drew up some brief ideas with pen and paper of how I wanted the site to look a
 
 ## Features
 
+Existing Features:
+
 - Homepage:
 
 The homepage is kept simple and clean, and just displays 3 simple images to convey the type of food found in sea&stone.
@@ -28,7 +30,7 @@ The news page is like a blog page that can be updated easily, detailing news and
 
 - Menus:
 
-The menu page includes a simple js carousel showing some of the food available at sea&stone. It also has links to 5 menus, all of which open in new tabs or download to your mobile device. The menus were made simply in Microsoft word keeping a consistent colour scheme and font detail.
+The menu page was initially created as a simple js carousel of all the menus available but this wasn't very eye catching so I amended it to have separate PDF menus for each meal type. These download to your device or open in new tabs. I also included a js carousel of eye catching food images to give users an idea of what type of food sea&stone provides.   
 
 - Location: 
 
@@ -36,11 +38,32 @@ The location page includes an embedded Google map which can easily be used for d
 
 - Contact:
 
-The contact page gives visitors the opportunity to fill in a form if they want to book an event like a Christmas party or family gathering. It also gives visitors all contact details like phone number and email address as well as links to the Facebook, Instagram and Twitter accounts for sea&stone. 
+The contact page gives visitors the opportunity to fill in a form if they want to book an event like a Christmas party or family gathering. When the form is submitted, the user is shown a pop up to say 'thanks, we'll be in touch soon' to show that the form has been succesfully submitted. It also gives visitors all contact details like phone number and email address as well as links to the Facebook, Instagram and Twitter accounts for sea&stone. 
+
+Features left to implement:
+
+- Footer:
+
+I think the site needs a proper footer at the bottom with links. 
+
+- Something more:
+
+I'm not sure what else restaurant websites really need but I'd like mine to be a bit more exciting and not quite so simple. It would be nice to have an external table booking system integrated like Open Table.
+
+## Technologies Used
+
+- HTML - to build the site
+- CSS - to style the site
+- [Bootstrap](https://getbootstrap.com/) - to style the site
+- Javascript - for an image carousel and to allow popups for form submission
+- [Google Fonts](https://fonts.google.com/) - for easily integrated fonts
+- [Font Awesome](https://fontawesome.com/) - for easily integrated social media icons
+- github - to store and host the website
+
 
 ## Imagery & Videos
 
-- All imagery and videos on the website are royalty and commerical free for reuse. All imagery and videos were found at Unsplash.com or Pexels.com.
+- All imagery and videos on the website are royalty and commerical free for reuse. All imagery and videos were found at Unsplash.com or Pexels.com.  The menus were made simply in Microsoft word keeping a consistent colour scheme and font detail.
 
 
 ## Technologies Used
