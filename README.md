@@ -84,7 +84,7 @@ The site was tested numerous times by myself and friends on different browsers a
 ## Menus page testing:
 1. Check that the image carousel is working correctly on all browsers and on mobile devices
 2. Check that each menu is opening/downloading correctly and is the correct menu as labelled
-3. Result - all menus opening/downloading correctly
+3. Result - all menus opening/downloading correctly, image carousel working correctly
 
 ## Location page testing:
 1. Ensure map is fully functional and allows users to zoom in and out and open the map in Google maps by clicking 'view larger map'
@@ -111,8 +111,7 @@ The site was tested numerous times by myself and friends on different browsers a
 
 ## Test 5. 
 - User fills out number field incorrectly - should not work
-- Result - 
-- popup says must match number format/10 digit number - test passed
+- Result - popup says must match number format/10 digit number - test passed
 
 ## Test 6. 
 - User fills out form correctly with all required fields filled correctly and hits submit - should work
@@ -120,7 +119,7 @@ The site was tested numerous times by myself and friends on different browsers a
 
 ## General testing for responsiveness
 
--The site was tested on phones, tablets, laptops and desktop pcs to ensure it was as responsive as possible and adjustments were then made to make sure it both looked and functioned well. Using Chromes developer tools, I was also able to check that it worked for screen dimensions of many sizes. I wanted the photos and items to stack when the site was viewed on a phone or smaller device but still look good with everything fitting correctly and not overflowing or being oversized. 
+The site was tested on phones, tablets, laptops and desktop pcs to ensure it was as responsive as possible and adjustments were then made to make sure it both looked and functioned well. Using Chromes developer tools, I was also able to check that it worked for screen dimensions of many sizes. I wanted the photos and items to stack when the site was viewed on a phone or smaller device but still look good with everything fitting correctly and not overflowing or being oversized. 
 
 ## Deployment
 
@@ -134,12 +133,12 @@ The site was regularly updated by pushing to Github which I then used to host th
 ## Imagery & Videos
 
 - All imagery and videos on the website are free for reuse. All imagery and videos were found at Unsplash.com or Pexels.com. 
+- The favicon image was found online [here](http://www.iconarchive.com/show/ios7-icons-by-icons8/Animals-Crab-icon.html)
 
 ## Code Snippets
 
 - The code for the image carousel came from [W3Schools](https://www.w3schools.com/w3css/w3css_slideshow.asp)
 - The code for the form submit popup was found on Stack overflow, not sure of link but something similar to [this](https://stackoverflow.com/questions/5443568/javascript-windows-alert-with-redirect-function)
 - All other code was written by me or adapted from the LMS lessons
-- The favicon image was found online [here](http://www.iconarchive.com/show/ios7-icons-by-icons8/Animals-Crab-icon.html)
 
 
