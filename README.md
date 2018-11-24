@@ -60,6 +60,28 @@ I'm not sure what else restaurant websites really need but I'd like mine to be a
 - [Font Awesome](https://fontawesome.com/) - for easily integrated social media icons
 - github - to store and host the website
 
+## Testing
+
+The site was tested numerous times by myself and friends on different browsers and devices to ensure it was fully responsive. 
+
+- Homepage testing:
+
+1. Check that all the navigation links are working and that each page has its own title
+2. Check that the link 'click here to book' is working
+Result - all links working correctly, each page has its own title
+
+- About page testing:
+1. Check that all information is accurate and correct
+2. Check that all links work from the about page
+Result - all info is correct and all links work correctly
+
+- News page testing:
+1. Check that all info is correct and all news links are working
+2. Check that both videos are loading and playing correctly. User should be able to play, pause, turn on/off sound and make the video fullscreen. 
+3. Check that videos work responsively and on different browsers
+Result - all links working and both videos loading and playing correctly. All controls working fully. 
+
+
 
 ## Imagery & Videos
 
