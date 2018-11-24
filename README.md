@@ -68,27 +68,27 @@ The site was tested numerous times by myself and friends on different browsers a
 
 1. Check that all the navigation links are working and that each page has its own title
 2. Check that the link 'click here to book' is working
-Result - all links working correctly, each page has its own title
+3. Result - all links working correctly, each page has its own title
 
 ## About page testing:
 1. Check that all information is accurate and correct
 2. Check that all links work from the about page
-Result - all info is correct and all links work correctly
+3. Result - all info is correct and all links work correctly
 
 ## News page testing:
 1. Check that all info is correct and all news links are working
 2. Check that both videos are loading and playing correctly. User should be able to play, pause, turn on/off sound and make the video fullscreen. 
 3. Check that videos work responsively and on different browsers
-Result - all links working and both videos loading and playing correctly. All controls working fully. 
+4. Result - all links working and both videos loading and playing correctly. All controls working fully. 
 
 ## Menus page testing:
 1. Check that the image carousel is working correctly on all browsers and on mobile devices
 2. Check that each menu is opening/downloading correctly and is the correct menu as labelled
-Result - all menus opening/downloading correctly
+3. Result - all menus opening/downloading correctly
 
 ## Location page testing:
 1. Ensure map is fully functional and allows users to zoom in and out and open the map in Google maps by clicking 'view larger map'
-Result - Map is functioning correctly on all devices and can be opened fully in Google maps
+2. Result - Map is functioning correctly on all devices and can be opened fully in Google maps
 
 ## Contact page testing:
 
