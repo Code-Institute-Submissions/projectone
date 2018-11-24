@@ -118,32 +118,28 @@ Result - Map is functioning correctly on all devices and can be opened fully in 
 - User fills out form correctly with all required fields filled correctly and hits submit - should work
 - Result - Form is submitted, user gets a pop up alert to tell them that 'we'll be in touch soon' - Test passed
 
+## General testing for responsiveness
 
+-The site was tested on phones, tablets, laptops and desktop pcs to ensure it was as responsive as possible and adjustments were then made to make sure it both looked and functioned well. Using Chromes developer tools, I was also able to check that it worked for screen dimensions of many sizes. I wanted the photos and items to stack when the site was viewed on a phone or smaller device but still look good with everything fitting correctly and not overflowing or being oversized. 
 
+## Deployment
 
+The site was regularly updated by pushing to Github which I then used to host the site. 
 
+## Credits
 
+## Content
+- All content about this fictional restaurant was created by me. I edited the videos and added music. The menus were made simply in Microsoft Word keeping a consistent colour scheme and font detail.
 
 ## Imagery & Videos
 
-- All imagery and videos on the website are royalty and commerical free for reuse. All imagery and videos were found at Unsplash.com or Pexels.com.  The menus were made simply in Microsoft word keeping a consistent colour scheme and font detail.
+- All imagery and videos on the website are free for reuse. All imagery and videos were found at Unsplash.com or Pexels.com. 
+
+## Code Snippets
+
+- The code for the image carousel came from [W3Schools](https://www.w3schools.com/w3css/w3css_slideshow.asp)
+- The code for the form submit popup was found on Stack overflow, not sure of link but something similar to [this](https://stackoverflow.com/questions/5443568/javascript-windows-alert-with-redirect-function)
+- All other code was written by me or adapted from the LMS lessons
+- The favicon image was found online [here](http://www.iconarchive.com/show/ios7-icons-by-icons8/Animals-Crab-icon.html)
 
 
-## Technologies Used
-
-- The site was made using HTML, CSS, Bootstrap and some simple Javascript for some extra functionality. I also used Google Fonts and Font Awesome.  It was pushed to github and hosted there. 
-
----
-
-## Article Archive :books:
-- [Reddit English](http://bit.ly/2mOJPu7)
-- [Reddit Spanish](https://www.reddit.com/r/boostnote_es/)
-- [Reddit Chinese](https://www.reddit.com/r/boostnote_cn/)
-- [Reddit Japanese](https://www.reddit.com/r/boostnote_jp/)
-
----
-
-## Community :beers:
-- [GitHub](http://bit.ly/2AWWzkD)
-- [Twitter](http://bit.ly/2z8BUJZ)
-- [Facebook Group](http://bit.ly/2jcca8t)
