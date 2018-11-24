@@ -81,6 +81,34 @@ Result - all info is correct and all links work correctly
 3. Check that videos work responsively and on different browsers
 Result - all links working and both videos loading and playing correctly. All controls working fully. 
 
+- Menus page testing:
+1. Check that the image carousel is working correctly on all browsers and on mobile devices
+2. Check that each menu is opening/downloading correctly and is the correct menu as labelled
+Result - all menus opening/downloading correctly
+
+- Location page testing:
+1.Ensure map is fully functional and allows users to zoom in and out and open the map in Google maps by clicking 'view larger map'
+Result - Map is functioning correctly on all devices and can be opened full in Google maps
+
+- Contact page testing:
+1. Ensure form functions as intended
+Test 1. User clicks submit with empty form - should not work
+Result - pop up says 'Please fill out this field' - test passed
+Test 2. User fills in only one field - should not work 
+Result - pop up says 'Please fill out this field' - test passed
+Test 3. User fills out only a few fields - should not work
+Result - pop up says 'Please fill out this field' - test passed
+Test 4. User fills out incorrect email format - should not work
+Result - Popup saying 'please include @ in email format' - test passed
+Test 5. User fills out number field incorrectly - should not work
+Result - popup says must match number format/10 digit number - test passed
+Test 6. User fills out form correctly with all required fields filled correctly and hits submit - should work
+Result - Form is submitted, user gets a pop up alert to tell them that 'we'll be in touch soon' - Test passed
+
+
+
+
+
 
 
 ## Imagery & Videos
