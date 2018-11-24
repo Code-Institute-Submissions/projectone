@@ -87,7 +87,7 @@ Result - all links working and both videos loading and playing correctly. All co
 Result - all menus opening/downloading correctly
 
 - Location page testing:
-1.Ensure map is fully functional and allows users to zoom in and out and open the map in Google maps by clicking 'view larger map'
+1. Ensure map is fully functional and allows users to zoom in and out and open the map in Google maps by clicking 'view larger map'
 Result - Map is functioning correctly on all devices and can be opened full in Google maps
 
 - Contact page testing:
