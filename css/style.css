@@ -280,7 +280,15 @@ textarea{
     color: rgb(84, 141, 212);
 }
 
-a.fa.fa-facebook.fa-twitter.fa-instagram {
+a.fa.fa-facebook{
+  text-decoration: none;
+}
+
+a.fa.fa-twitter {
+  text-decoration: none;
+}
+
+a.fa.fa-instagram {
   text-decoration: none;
 }
 
