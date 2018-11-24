@@ -7,7 +7,7 @@ function submitFunction() {
 
 
 
-//Image carousel from W3//
+//Image carousel from W3Schools//
 var myIndex = 0;
 carousel();
 

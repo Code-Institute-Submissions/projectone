@@ -113,10 +113,6 @@ h3{
   font-size: 30px;
 }
 
-/*.foodpics .card-about .map {*/
-/*  border: 15px solid #777;*/
-/*}*/
-
 /*Image & Card Styling */
 
 .card_image{
@@ -139,10 +135,9 @@ h3{
   padding: 5px 5px 5px 5px;
 }
 
-#cardcontainer
-{
-  display: flex;    /* makes container a flexbox*/
-  flex-flow: row wrap;  /* layout the boxes in rows and wrap them*/
+#cardcontainer {
+  display: flex;    
+  flex-flow: row wrap;  
   box-sizing:border-box;
   margin-right:auto;
   margin-left:auto;
@@ -150,8 +145,8 @@ h3{
 }
 
 .cardcontainer {
-  display: flex;    /* makes container a flexbox*/
-  flex-flow: row wrap;  /* layout the boxes in rows and wrap them*/
+  display: flex;  
+  flex-flow: row wrap;
   box-sizing:border-box;
   margin-right:auto;
   margin-left:auto;
@@ -160,9 +155,9 @@ h3{
 
 .card{
   flex:1; /* */
-  display: flex;  /* make the contents controllable by flexbox*/
-  flex-flow:column; /* */
-  min-width: 240px; /**/
+  display: flex; 
+  flex-flow:column; 
+  min-width: 240px; 
   margin: 10px;
   padding: 25px;
   background-color: #f5f5f5;
@@ -232,9 +227,6 @@ fieldset{
   display: block;
   font-family: 'Roboto Slab', serif;
   padding:20px 30px;
-  /*border-style: solid;
-  border-color: gray;
-  border-width: 3px;*/
   background-color: white;
   min-width: -webkit-min-content;
   float: none;
@@ -257,11 +249,6 @@ textarea{
   width: 300px;
 }
 
-
-/*.row .contact{*/
-/*  margin: 0 auto;*/
-/*  float: none;*/
-/*}*/
 
 .fa {
     padding: 20px;

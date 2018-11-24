@@ -1,6 +1,8 @@
-This is a website for a fictional restaurant called sea&stone.
+sea&stone is a fictional seafood restaurant based in West Cork.
 
-It contains all the basic information one might need when choosing somewhere to eat.
+Starting the project:
+
+I started with the idea of making a website for a fictional cafe or restaurant. After lots of back and forth, I settled on a simple, clean black and white design with some hints of blue for my restaurant sea&stone. The layout is simple and easy to follow and the site is fully responsive. 
 
 Homepage:
 
@@ -12,7 +14,7 @@ The about page gives some basic info on sea&stone, like opening hours and whats 
 
 News:
 
-The news page is like a blog, detailing news and upcoming events at sea&stone. It also includes some videos to give customers an idea of what the events are like, ie the barista master class. 
+The news page is like a blog page that can be updated easily, detailing news and upcoming events at sea&stone. It also includes some videos to give customers an idea of what the events are like, ie the barista master class. 
 
 Menus:
 
@@ -20,7 +22,7 @@ The menu page includes a simple js carousel showing some of the food available a
 
 Location: 
 
-The location page includes a Google map which can easily be used for directions to sea&stone as well as the address and info on parking nearby.
+The location page includes an embedded Google map which can easily be used for directions to sea&stone as well as the address and info on parking nearby.
 
 Contact:
 
@@ -29,17 +31,18 @@ The contact page gives visitors the opportunity to fill in a form if they want t
 
 Image & Video sources.
 
-All imagery and videos on the website are royalty and commerical free for reuse. All imagery was found at Unsplash.com while the videos were sourced from **** with music added later by me in Windows movie maker. 
+All imagery and videos on the website are royalty and commerical free for reuse. All imagery and videos were found at Unsplash.com or Pexels.com.
 
-The homepage just has 3 simple images
+About the site:
 
-https://unsplash.com/photos/hfK401V_NXk
-https://unsplash.com/photos/w6ftFbPCs9I
-https://unsplash.com/photos/8pUjhBm4cLw
-https://unsplash.com/photos/qvIrI4ueqzY
+The site was made using HTMl, CSS and some simple Javascript for some extra functionality. It was pushed to github and hosted there. 
 
-https://unsplash.com/photos/tkfRSPt-jdk
 
-https://unsplash.com/photos/J04BD4ysoh8
 
-https://unsplash.com/photos/OGJp-AJeIoM
+
+
+
+
+
+
+
