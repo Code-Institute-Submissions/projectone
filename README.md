@@ -91,18 +91,18 @@ Result - all menus opening/downloading correctly
 Result - Map is functioning correctly on all devices and can be opened full in Google maps
 
 - Contact page testing:
-1. Ensure form functions as intended
-Test 1. User clicks submit with empty form - should not work
+- Test 1. Ensure form functions as intended
+User clicks submit with empty form - should not work
 Result - pop up says 'Please fill out this field' - test passed
-Test 2. User fills in only one field - should not work 
+- Test 2. User fills in only one field - should not work 
 Result - pop up says 'Please fill out this field' - test passed
-Test 3. User fills out only a few fields - should not work
+- Test 3. User fills out only a few fields - should not work
 Result - pop up says 'Please fill out this field' - test passed
-Test 4. User fills out incorrect email format - should not work
+- Test 4. User fills out incorrect email format - should not work
 Result - Popup saying 'please include @ in email format' - test passed
-Test 5. User fills out number field incorrectly - should not work
+- Test 5. User fills out number field incorrectly - should not work
 Result - popup says must match number format/10 digit number - test passed
-Test 6. User fills out form correctly with all required fields filled correctly and hits submit - should work
+- Test 6. User fills out form correctly with all required fields filled correctly and hits submit - should work
 Result - Form is submitted, user gets a pop up alert to tell them that 'we'll be in touch soon' - Test passed
 
 
