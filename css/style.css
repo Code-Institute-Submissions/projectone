@@ -117,11 +117,12 @@ h3{
   font-weight: bold;
 }
 
-.headertext {
+a.headertext {
     font-family: 'Abril Fatface', cursive;
   text-align: center;
   font-weight: bold;
   font-size: 36px;
+  text-decoration: none;
 }
 
 /*Image & Card Styling */
