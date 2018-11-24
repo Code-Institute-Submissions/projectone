@@ -26,6 +26,7 @@ nav ul li:hover {
 #header {
   color: black;
   background-color: white;
+  text-align: center;
 }
 
 .currentpage {
