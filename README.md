@@ -1,12 +1,18 @@
 # Stream One Project - sea&stone
 
-sea&stone is a fictional seafood restaurant based in West Cork.
+sea&stone is a fictional seafood restaurant based in West Cork. The website is a simple site for the restaurant with every detail one would want when choosing where to eat. 
 
-## Starting the project:
+## UX
 
-I started with the idea of making a website for a fictional cafe or restaurant. After lots of back and forth, I settled on a simple, clean black and white design with some hints of blue. The layout is simple and easy to follow. 
+For this site, I wanted the layout to be very clean and simple so I went for a simple colour scheme and a minimal layout. When I visit a restaurant or shop website, I am often frustrated trying to find where their open hours might be located or where I'd find their menu so I wanted the site to be straightforward and simple to follow. 
 
-## Website Pages
+When a user visits the site for the first time, they are met with 3 simple images that already convey an idea of the type of food they can find at this restaurant, ie seafood. Below this, theres also a quick blurb about the restaurant to give the user a further idea of what its about.
+
+The navbar then allows the user to follow a simple path to get what they need, be it menus, contact details, location etc. 
+
+I drew up some brief ideas with pen and paper of how I wanted the site to look and then I created simple wireframes in Photoshop which can be found in the mockup folder on Github. 
+
+## Features
 
 - Homepage:
 
@@ -14,11 +20,11 @@ The homepage is kept simple and clean, and just displays 3 simple images to conv
 
 - About:
 
-The about page gives some basic info on sea&stone, like opening hours and whats served. 
+The about page gives some basic info on sea&stone, like opening hours and what type of food is served. 
 
 - News:
 
-The news page is like a blog page that can be updated easily, detailing news and upcoming events at sea&stone. It also includes some videos to give customers an idea of what the events are like, ie the barista master class. 
+The news page is like a blog page that can be updated easily, detailing news and upcoming events at sea&stone. It also includes some videos to give customers an idea of what the events are like, ie the barista master class and gives updates and info on upcoming events and event bookings. 
 
 - Menus:
 
@@ -39,7 +45,7 @@ The contact page gives visitors the opportunity to fill in a form if they want t
 
 ## Technologies Used
 
-- The site was made using HTMl, CSS and some simple Javascript for some extra functionality. It was pushed to github and hosted there. 
+- The site was made using HTML, CSS, Bootstrap and some simple Javascript for some extra functionality. I also used Google Fonts and Font Awesome.  It was pushed to github and hosted there. 
 
 ---
 
