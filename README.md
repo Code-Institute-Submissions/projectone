@@ -10,7 +10,7 @@ When a user visits the site for the first time, they are met with 3 simple image
 
 The navbar then allows the user to follow a simple path to get what they need, be it menus, contact details, location etc. 
 
-I drew up some brief ideas with pen and paper of how I wanted the site to look and then I created simple wireframes in Photoshop which can be found in the mockup folder on Github. 
+I drew up some brief ideas with pen and paper of how I wanted the site to look and then I created simple wireframes in Photoshop which can be found in the mockup folder on Github as well as a detailed [PDF](https://github.com/oheag2/projectone/blob/master/mockups/seaandstonemockup.pdf) about the site. 
 
 ## Features
 
