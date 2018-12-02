@@ -55,10 +55,10 @@ I'm not sure what else restaurant websites really need but I'd like mine to be a
 - HTML - to build the site
 - CSS - to style the site
 - [Bootstrap](https://getbootstrap.com/) - to style the site and make it more responsive
-- Javascript - for an image carousel and to allow popups for form submission
+- [Javascript](https://www.javascript.com/) - for an image carousel and to allow popups for form submission
 - [Google Fonts](https://fonts.google.com/) - for easily integrated fonts
 - [Font Awesome](https://fontawesome.com/) - for easily integrated social media icons
-- github - to store and host the website
+- [github](https://github.com/) - to store and host the website
 
 ## Testing
 
