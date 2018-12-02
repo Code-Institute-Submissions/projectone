@@ -68,54 +68,54 @@ The site was tested numerous times by myself and friends on different browsers a
 
 - Check that all the navigation links are working and that each page has its own title
 - Check that the link 'click here to book' is working
-Result - all links working correctly, each page has its own title
+- Result - all links working correctly, each page has its own title
 
 ## About page testing:
 - Check that all information is accurate and correct
 - Check that all links work from the about page
-Result - all info is correct and all links work correctly
+- Result - all info is correct and all links work correctly
 
 ## News page testing:
 - Check that all info is correct and all news links are working 
 - Check that both videos are loading and playing correctly. User should be able to play, pause, turn on/off sound and make the video fullscreen. 
 - Check that videos work responsively and on different browsers
-Result - all links working and both videos loading and playing correctly. All controls working fully. 
+- Result - all links working and both videos loading and playing correctly. All controls working fully. 
 
 ## Menus page testing: 
 - Check that the image carousel is working correctly on all browsers and on mobile devices
 - Check that each menu is opening/downloading correctly and is the correct menu as labelled
-Result - all menus opening/downloading correctly, image carousel working correctly
+- Result - all menus opening/downloading correctly, image carousel working correctly
 
 ## Location page testing:
 - Ensure map is fully functional and allows users to zoom in and out and open the map in Google maps by clicking 'view larger map'
-Result - Map is functioning correctly on all devices and can be opened fully in Google maps
+- Result - Map is functioning correctly on all devices and can be opened fully in Google maps
 
 ## Contact page testing:
 
 ## Test 1. 
 - Ensure form functions as intended
 - User clicks submit with empty form - should not work
-Result - pop up says 'Please fill out this field' - test passed
+- Result - pop up says 'Please fill out this field' - test passed
 
 ## Test 2.
 - User fills in only one field - should not work 
-Result - pop up says 'Please fill out this field' - test passed
+- Result - pop up says 'Please fill out this field' - test passed
 
 ## Test 3. 
 - User fills out only a few fields - should not work
-Result - pop up says 'Please fill out this field' - test passed
+- Result - pop up says 'Please fill out this field' - test passed
 
 ## Test 4. 
 - User fills out incorrect email format - should not work
-Result - Popup saying 'please include @ in email format' - test passed
+- Result - Popup saying 'please include @ in email format' - test passed
 
 ## Test 5. 
 - User fills out number field incorrectly - should not work
-Result - popup says must match number format/10 digit number - test passed
+- Result - popup says must match number format/10 digit number - test passed
 
 ## Test 6. 
 - User fills out form correctly with all required fields filled correctly and hits submit - should work
-Result - Form is submitted, user gets a pop up alert to tell them that 'we'll be in touch soon' - Test passed
+- Result - Form is submitted, user gets a pop up alert to tell them that 'we'll be in touch soon' - Test passed
 
 ## General testing for responsiveness
 
