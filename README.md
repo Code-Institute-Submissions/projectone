@@ -40,7 +40,7 @@ The location page includes an embedded Google map which can easily be used for d
 
 The contact page gives visitors the opportunity to fill in a form if they want to book an event like a Christmas party or family gathering. When the form is submitted, the user is shown a pop up to say 'thanks, we'll be in touch soon' to show that the form has been succesfully submitted. It also gives visitors all contact details like phone number and email address as well as links to the Facebook, Instagram and Twitter accounts for sea&stone. 
 
-Features left to implement:
+### Features left to implement:
 
 - Footer:
 
