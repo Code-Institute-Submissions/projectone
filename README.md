@@ -64,60 +64,60 @@ I'm not sure what else restaurant websites really need but I'd like mine to be a
 
 The site was tested numerous times by myself and friends on different browsers and devices to ensure it was fully responsive. 
 
-## Homepage testing:
+### Homepage testing:
 
 - Check that all the navigation links are working and that each page has its own title
 - Check that the link 'click here to book' is working
 - Result - all links working correctly, each page has its own title
 
-## About page testing:
+### About page testing:
 - Check that all information is accurate and correct
 - Check that all links work from the about page
 - Result - all info is correct and all links work correctly
 
-## News page testing:
+### News page testing:
 - Check that all info is correct and all news links are working 
 - Check that both videos are loading and playing correctly. User should be able to play, pause, turn on/off sound and make the video fullscreen. 
 - Check that videos work responsively and on different browsers
 - Result - all links working and both videos loading and playing correctly. All controls working fully. 
 
-## Menus page testing: 
+### Menus page testing: 
 - Check that the image carousel is working correctly on all browsers and on mobile devices
 - Check that each menu is opening/downloading correctly and is the correct menu as labelled
 - Result - all menus opening/downloading correctly, image carousel working correctly
 
-## Location page testing:
+### Location page testing:
 - Ensure map is fully functional and allows users to zoom in and out and open the map in Google maps by clicking 'view larger map'
 - Result - Map is functioning correctly on all devices and can be opened fully in Google maps
 
-## Contact page testing:
+### Contact page testing:
 
-## Test 1. 
+#### Test 1. 
 - Ensure form functions as intended
 - User clicks submit with empty form - should not work
 - Result - pop up says 'Please fill out this field' - test passed
 
-## Test 2.
+#### Test 2.
 - User fills in only one field - should not work 
 - Result - pop up says 'Please fill out this field' - test passed
 
-## Test 3. 
+#### Test 3. 
 - User fills out only a few fields - should not work
 - Result - pop up says 'Please fill out this field' - test passed
 
-## Test 4. 
+#### Test 4. 
 - User fills out incorrect email format - should not work
 - Result - Popup saying 'please include @ in email format' - test passed
 
-## Test 5. 
+#### Test 5. 
 - User fills out number field incorrectly - should not work
 - Result - popup says must match number format/10 digit number - test passed
 
-## Test 6. 
+#### Test 6. 
 - User fills out form correctly with all required fields filled correctly and hits submit - should work
 - Result - Form is submitted, user gets a pop up alert to tell them that 'we'll be in touch soon' - Test passed
 
-## General testing for responsiveness
+### General testing for responsiveness
 
 The site was tested on phones, tablets, laptops and desktop pcs to ensure it was as responsive as possible and adjustments were then made to make sure it both looked and functioned well. Using Chromes developer tools, I was also able to check that it worked for screen dimensions of many sizes. I wanted the photos and items to stack when the site was viewed on a phone or smaller device but still look good with everything fitting correctly and not overflowing or being oversized. 
 
@@ -127,15 +127,15 @@ The site was regularly updated by pushing to Github which I then used to host th
 
 ## Credits
 
-## Content
+### Content
 - All content about this fictional restaurant was created by me. I edited the videos and added music. The menus were made simply in Microsoft Word keeping a consistent colour scheme and font detail.
 
-## Imagery & Videos
+### Imagery & Videos
 
 - All imagery and videos on the website are free for reuse. All imagery and videos were found at Unsplash.com or Pexels.com. 
 - The favicon image was found online [here](http://www.iconarchive.com/show/ios7-icons-by-icons8/Animals-Crab-icon.html)
 
-## Code Snippets
+### Code Snippets
 
 - The code for the image carousel came from [W3Schools](https://www.w3schools.com/w3css/w3css_slideshow.asp)
 - The code for the form submit popup was found on Stack overflow, not sure of link but something similar to [this](https://stackoverflow.com/questions/5443568/javascript-windows-alert-with-redirect-function)
